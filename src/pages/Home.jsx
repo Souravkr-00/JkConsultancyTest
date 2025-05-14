@@ -9,6 +9,7 @@ import CoursesSection from '../components/home/CoursesSection.jsx'
 import VideoTestimonials from '../components/home/VideoTestimonials.jsx'
 import FAQSection from '../components/common/FAQSection.jsx'
 import VideoHeroBanner from '../components/common/VideoHeroBanner.jsx'
+
 function Home() {
   return (
     <div className='max-w-10xl mx-auto'>
@@ -22,6 +23,7 @@ function Home() {
         <VideoTestimonials/>
         <AuroraHero/>
          <FAQSection/>
+         
         
     </div>
   )
