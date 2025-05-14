@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-import video from "../../assets/videos/herovideo2.mp4";
+import video from "../../assets/videos/bannervideo.mp4";
 export default function VideoHeroBanner() {
   const [isVisible, setIsVisible] = useState(false);
   const [scrollPosition, setScrollPosition] = useState(0);
