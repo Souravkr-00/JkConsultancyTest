@@ -1,0 +1,1424 @@
+ [
+      {
+        "id": "arm-1",
+        "name": "Erebuni Medical Academy Foundation",
+        "country": "Armenia",
+        "description": "A modern medical institution focused on innovative healthcare education in Armenia",
+        "longDescription": "Erebuni Medical Academy Foundation is dedicated to training skilled healthcare professionals through a combination of theoretical knowledge and practical experience. The institution emphasizes international collaboration and modern teaching methodologies to prepare students for global medical practice.",
+        "image": "https://example.com/images/erebuni_medical.jpg",
+        "campusArea": "12 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Postgraduate Medical Education"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,500 per year",
+          "localStudents": "$3,200 per year"
+        },
+        "email": "admissions@erebunimedical.am",
+        "website": "https://www.erebunimedical.am",
+        "address": "23 Komitas Avenue, Yerevan, Armenia",
+        "contactNumber": "+374 10 275090",
+        "ranking": "Top 5 in Armenia",
+        "accreditation": [
+          "Ministry of Education and Science of Armenia",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 1994,
+        "academicFacilities": [
+          "Modern simulation labs",
+          "Digital library",
+          "Research centers",
+          "Teaching hospital"
+        ],
+        "studentLife": {
+          "accommodation": "On-campus dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Medical students association",
+            "Research clubs",
+            "Sports facilities"
+          ]
+        }
+      },
+      {
+        "id": "arm-2",
+        "name": "Yerevan State Medical University",
+        "country": "Armenia",
+        "description": "Leading medical university in Armenia with a rich history of medical education",
+        "longDescription": "Established in 1920, Yerevan State Medical University (YSMU) is the oldest and most prestigious medical institution in Armenia. With nearly a century of academic excellence, it has produced thousands of skilled medical professionals serving worldwide. The university offers comprehensive medical education with strong emphasis on clinical practice.",
+        "image": "https://example.com/images/ysmu.jpg",
+        "campusArea": "25 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Public Health (4 years)",
+          "Military Medicine (6 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$5,000 per year",
+          "localStudents": "$3,500 per year"
+        },
+        "email": "international@ysmu.am",
+        "website": "https://www.ysmu.am/en/",
+        "address": "2 Koryun Street, Yerevan 0025, Armenia",
+        "contactNumber": "+374 10 582532",
+        "ranking": "Top medical university in Armenia, #12 in CIS countries",
+        "accreditation": [
+          "Ministry of Education and Science of Armenia",
+          "World Health Organization (WHO) Directory",
+          "Medical Council of India (MCI)",
+          "General Medical Council (UK recognition)"
+        ],
+        "foundingYear": 1920,
+        "academicFacilities": [
+          "12 teaching hospitals",
+          "Advanced research laboratories",
+          "Anatomical museum",
+          "Modern simulation centers",
+          "Comprehensive scientific library"
+        ],
+        "studentLife": {
+          "accommodation": "University dormitories and assisted private housing",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student Scientific Society",
+            "Cultural clubs",
+            "Sports competitions",
+            "International student association"
+          ]
+        }
+      },
+      {
+        "id": "arm-3",
+        "name": "Yerevan Haybusak University",
+        "country": "Armenia",
+        "description": "Private medical university offering medical education in multiple languages",
+        "longDescription": "Yerevan Haybusak University is a progressive institution offering medical programs in Armenian, Russian, and English. With a strong focus on international education standards, the university provides students with modern facilities and international exposure through exchange programs and international faculty.",
+        "image": "https://example.com/images/haybusak.jpg",
+        "campusArea": "15 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Nursing (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,800 per year",
+          "localStudents": "$3,400 per year"
+        },
+        "email": "info@haybusak.org",
+        "website": "https://www.haybusak.org",
+        "address": "6 Abelyan Street, Yerevan, Armenia",
+        "contactNumber": "+374 10 270954",
+        "ranking": "Top 10 private universities in Armenia",
+        "accreditation": [
+          "Ministry of Education and Science of Armenia",
+          "World Health Organization (WHO) Directory",
+          "Medical Council of India (MCI)"
+        ],
+        "foundingYear": 1990,
+        "academicFacilities": [
+          "Modern lecture halls",
+          "Clinical skills laboratories",
+          "Affiliated teaching hospitals",
+          "Electronic library resources"
+        ],
+        "studentLife": {
+          "accommodation": "Assisted private housing",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Medical conferences",
+            "Cultural events",
+            "Student exchange programs"
+          ]
+        }
+      },
+      {
+        "id": "arm-4",
+        "name": "University of Traditional Medicine",
+        "country": "Armenia",
+        "description": "Specialized institution combining modern medical education with traditional healing practices",
+        "longDescription": "The University of Traditional Medicine in Armenia offers a unique blend of conventional medical education alongside traditional Armenian and Eastern healing methods. The university focuses on holistic approaches to medicine, combining scientific research with centuries-old healing traditions.",
+        "image": "https://example.com/images/utm_armenia.jpg",
+        "campusArea": "8 hectares",
+        "programmes": [
+          "General Medicine with Traditional Medicine (6 years)",
+          "Traditional Pharmacy (5 years)",
+          "Acupuncture and Eastern Medicine (5 years)",
+          "Medical Rehabilitation (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,200 per year",
+          "localStudents": "$3,000 per year"
+        },
+        "email": "admissions@utmedicine.am",
+        "website": "https://www.utmedicine.am",
+        "address": "17 Acharyan Street, Yerevan, Armenia",
+        "contactNumber": "+374 10 345678",
+        "ranking": "Specialized medical institution in Armenia",
+        "accreditation": [
+          "Ministry of Education and Science of Armenia",
+          "International Council for Traditional Medicine"
+        ],
+        "foundingYear": 1997,
+        "academicFacilities": [
+          "Herbarium and medicinal plant garden",
+          "Traditional medicine museum",
+          "Research laboratories",
+          "Clinical practice centers"
+        ],
+        "studentLife": {
+          "accommodation": "Partner dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Medicinal plant expeditions",
+            "Traditional medicine workshops",
+            "Cultural exchange programs"
+          ]
+        }
+      },
+      {
+        "id": "arm-5",
+        "name": "Mkhitar Gosh Armenian-Russian International University",
+        "country": "Armenia",
+        "description": "Bilateral educational institution offering medical programs with Russian collaboration",
+        "longDescription": "Mkhitar Gosh Armenian-Russian International University represents strong educational cooperation between Armenia and Russia. The university focuses on providing quality medical education according to international standards while maintaining close ties with Russian medical institutions for exchange programs and joint research.",
+        "image": "https://example.com/images/mkhitar_gosh.jpg",
+        "campusArea": "10 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Dentistry (5 years)",
+          "Medical Psychology (5 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,300 per year",
+          "localStudents": "$3,100 per year"
+        },
+        "email": "international@mkhitargosh.am",
+        "website": "https://www.mkhitargosh.am",
+        "address": "10 Azatutyan Avenue, Yerevan, Armenia",
+        "contactNumber": "+374 10 267890",
+        "ranking": "Top Armenian-Russian collaborative institution",
+        "accreditation": [
+          "Ministry of Education and Science of Armenia",
+          "Ministry of Education of Russian Federation",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 1996,
+        "academicFacilities": [
+          "Bilingual learning resources",
+          "Collaborative research centers",
+          "Modern clinical training facilities",
+          "Digital library with Russian medical resources"
+        ],
+        "studentLife": {
+          "accommodation": "University dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Armenian-Russian cultural exchange",
+            "Medical symposia",
+            "Student research initiatives"
+          ]
+        }
+      },
+      {
+        "id": "rus-1",
+        "name": "Orel State University",
+        "country": "Russia",
+        "description": "Comprehensive university with strong medical faculty in central Russia",
+        "longDescription": "Orel State University is a major educational and scientific center in central Russia, known for its strong medical faculty. The university combines traditional Russian medical education with modern approaches, featuring extensive clinical practice and research opportunities in various medical fields.",
+        "image": "https://example.com/images/orel_state.jpg",
+        "campusArea": "35 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Pediatrics (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Preventive Medicine (6 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$5,500 per year",
+          "localStudents": "250,000 rubles per year"
+        },
+        "email": "international@oreluniv.ru",
+        "website": "https://www.oreluniv.ru/en",
+        "address": "95 Komsomolskaya Street, Orel, Russia, 302026",
+        "contactNumber": "+7 4862 751318",
+        "ranking": "Top 100 Russian universities",
+        "accreditation": [
+          "Ministry of Science and Higher Education of the Russian Federation",
+          "World Health Organization (WHO) Directory",
+          "World Federation for Medical Education (WFME)"
+        ],
+        "foundingYear": 1931,
+        "academicFacilities": [
+          "University clinical hospital",
+          "Modern research laboratories",
+          "Medical simulation center",
+          "Anatomical museum",
+          "Large scientific library"
+        ],
+        "studentLife": {
+          "accommodation": "Multiple university dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student scientific societies",
+            "Sports facilities",
+            "Cultural centers",
+            "International student club"
+          ]
+        }
+      },
+      {
+        "id": "rus-2",
+        "name": "Bashkir State Medical University",
+        "country": "Russia",
+        "description": "Leading medical university in the Republic of Bashkortostan with extensive international programs",
+        "longDescription": "Established in 1932, Bashkir State Medical University is one of Russia's premier medical institutions located in Ufa. The university has a strong tradition of medical education and research, with over 8,000 students including a large international community. BSMU offers comprehensive medical training with extensive clinical practice in its affiliated hospitals.",
+        "image": "https://example.com/images/bashkir_med.jpg",
+        "campusArea": "40 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Pediatrics (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Preventive Medicine (6 years)",
+          "Nursing (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$6,000 per year",
+          "localStudents": "270,000 rubles per year"
+        },
+        "email": "international@bashgmu.ru",
+        "website": "https://www.bashgmu.ru/en/",
+        "address": "3 Lenin Street, Ufa, Republic of Bashkortostan, Russia, 450008",
+        "contactNumber": "+7 347 272 41 73",
+        "ranking": "Top 50 Russian universities, #5 among Russian medical universities",
+        "accreditation": [
+          "Ministry of Science and Higher Education of the Russian Federation",
+          "World Health Organization (WHO) Directory",
+          "Medical Council of India (MCI)",
+          "Medical Council of Thailand"
+        ],
+        "foundingYear": 1932,
+        "academicFacilities": [
+          "12 teaching hospitals",
+          "Dental clinics",
+          "Scientific research institutes",
+          "Modern simulation center",
+          "Central scientific research laboratory"
+        ],
+        "studentLife": {
+          "accommodation": "8 comfortable dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student scientific society",
+            "Sports and fitness center",
+            "Cultural House of Medical Students",
+            "International friendship club"
+          ]
+        }
+      },
+      {
+        "id": "rus-3",
+        "name": "Kazan State Medical University",
+        "country": "Russia",
+        "description": "Historic medical university with over 200 years of educational excellence",
+        "longDescription": "Founded in 1814, Kazan State Medical University is one of the oldest medical schools in Russia with a rich history of medical discoveries and educational innovation. Located in the culturally diverse Republic of Tatarstan, the university combines traditional Russian medical education with modern international standards, attracting students from over 50 countries.",
+        "image": "https://example.com/images/kazan_med.jpg",
+        "campusArea": "30 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Pediatrics (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Preventive Medicine (6 years)",
+          "Medical Biochemistry (6 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$5,800 per year",
+          "localStudents": "260,000 rubles per year"
+        },
+        "email": "admission@kazangmu.ru",
+        "website": "https://www.kazangmu.ru/en/",
+        "address": "49 Butlerov Street, Kazan, Republic of Tatarstan, Russia, 420012",
+        "contactNumber": "+7 843 236 06 13",
+        "ranking": "Top 30 Russian universities, Top 3 medical universities in Russia",
+        "accreditation": [
+          "Ministry of Science and Higher Education of the Russian Federation",
+          "World Health Organization (WHO) Directory",
+          "Medical Council of India (MCI)",
+          "Educational Commission for Foreign Medical Graduates (ECFMG)"
+        ],
+        "foundingYear": 1814,
+        "academicFacilities": [
+          "Historical anatomical theater",
+          "Modern medical simulation center",
+          "Multiple university clinics",
+          "Scientific research institutes",
+          "Pharmaceutical production facility"
+        ],
+        "studentLife": {
+          "accommodation": "5 student dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Medical student theater",
+            "Scientific societies",
+            "Sports competitions",
+            "International cultural festivals"
+          ]
+        }
+      },
+      {
+        "id": "rus-4",
+        "name": "Siberian State Medical University",
+        "country": "Russia",
+        "description": "Leading medical institution in Siberia with strong research orientation",
+        "longDescription": "Siberian State Medical University in Tomsk is one of the oldest medical schools beyond the Ural Mountains, founded in 1888. The university is recognized for its strong research orientation and clinical practice, offering education in all major medical fields with emphasis on adaptation medicine for extreme conditions typical for Siberian regions.",
+        "image": "https://example.com/images/siberian_med.jpg",
+        "campusArea": "28 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Pediatrics (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Medical Biochemistry (6 years)",
+          "Medical Cybernetics (6 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$5,500 per year",
+          "localStudents": "250,000 rubles per year"
+        },
+        "email": "office@ssmu.ru",
+        "website": "https://www.ssmu.ru/en/",
+        "address": "2 Moscow Tract, Tomsk, Russia, 634050",
+        "contactNumber": "+7 3822 901101",
+        "ranking": "Top 35 Russian universities, Leading medical university in Siberia",
+        "accreditation": [
+          "Ministry of Science and Higher Education of the Russian Federation",
+          "World Health Organization (WHO) Directory",
+          "Medical Council of India (MCI)"
+        ],
+        "foundingYear": 1888,
+        "academicFacilities": [
+          "University clinics",
+          "Central research laboratory",
+          "Scientific research institutes",
+          "Center for innovative technologies in medicine",
+          "Historical medical library"
+        ],
+        "studentLife": {
+          "accommodation": "Multiple dormitories for students",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student scientific society",
+            "Medical volunteers program",
+            "Sports facilities",
+            "Cultural events"
+          ]
+        }
+      },
+      {
+        "id": "geo-1",
+        "name": "Georgian National University (SEU)",
+        "country": "Georgia",
+        "description": "Modern private university with strong international medical programs",
+        "longDescription": "Georgian National University (SEU) is a progressive private institution in Tbilisi offering international standard medical education. The university focuses on innovative teaching methods and practical skills development through modern facilities and partnerships with leading hospitals and clinics in Georgia.",
+        "image": "https://example.com/images/georgian_national.jpg",
+        "campusArea": "12 hectares",
+        "programmes": [
+          "Medicine (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Public Health (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$5,000 per year",
+          "localStudents": "10,000 GEL per year"
+        },
+        "email": "info@seu.edu.ge",
+        "website": "https://www.seu.edu.ge/en",
+        "address": "9 Tsinandali Street, Tbilisi, Georgia",
+        "contactNumber": "+995 32 2242442",
+        "ranking": "Top 5 private universities in Georgia",
+        "accreditation": [
+          "Ministry of Education and Science of Georgia",
+          "World Health Organization (WHO) Directory",
+          "World Federation for Medical Education (WFME)"
+        ],
+        "foundingYear": 2001,
+        "academicFacilities": [
+          "Modern teaching laboratories",
+          "Simulation center",
+          "Digital library",
+          "Clinical skills center",
+          "Partner teaching hospitals"
+        ],
+        "studentLife": {
+          "accommodation": "Assisted private housing",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student research groups",
+            "Cultural exchange programs",
+            "Sports activities",
+            "Medical volunteering"
+          ]
+        }
+      },
+      {
+        "id": "geo-2",
+        "name": "Alte University",
+        "country": "Georgia",
+        "description": "Young innovative medical university with European education standards",
+        "longDescription": "Alte University is a modern institution in Georgia focused on providing internationally recognized medical education using innovative teaching methodologies. The university maintains strong relationships with European medical schools and emphasizes practical clinical training from early years of education.",
+        "image": "https://example.com/images/alte_university.jpg",
+        "campusArea": "8 hectares",
+        "programmes": [
+          "Medicine (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Nursing (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,800 per year",
+          "localStudents": "9,500 GEL per year"
+        },
+        "email": "admissions@alte.edu.ge",
+        "website": "https://www.alte.edu.ge",
+        "address": "21 Kavtaradze Street, Tbilisi, Georgia",
+        "contactNumber": "+995 32 2555777",
+        "ranking": "Emerging university in Georgian medical education",
+        "accreditation": [
+          "Ministry of Education and Science of Georgia",
+          "National Center for Educational Quality Enhancement"
+        ],
+        "foundingYear": 2015,
+        "academicFacilities": [
+          "Advanced simulation laboratories",
+          "Anatomy center",
+          "Digital learning resources",
+          "Partner hospitals for clinical rotations"
+        ],
+        "studentLife": {
+          "accommodation": "Partner dormitories and housing assistance",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Research symposiums",
+            "Medical volunteering",
+            "Cultural integration programs"
+          ]
+        }
+      },
+      {
+        "id": "geo-3",
+        "name": "Batumi Shota Rustaveli State University",
+        "country": "Georgia",
+        "description": "Historic university with modern medical faculty in coastal Georgia",
+        "longDescription": "Located in the beautiful coastal city of Batumi, Shota Rustaveli State University is one of Georgia's oldest educational institutions with a modern medical faculty. The university offers comprehensive medical education combining Georgian traditions with international standards in a multicultural environment near the Black Sea.",
+        "image": "https://example.com/images/batumi_university.jpg",
+        "campusArea": "22 hectares",
+        "programmes": [
+          "Medicine (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Public Health (4 years)",
+          "Physical Medicine and Rehabilitation (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,500 per year",
+          "localStudents": "2,250 GEL per year"
+        },
+        "email": "info@bsu.edu.ge",
+        "website": "https://www.bsu.edu.ge/en/",
+        "address": "35 Ninoshvili Street, Batumi 6010, Georgia",
+        "contactNumber": "+995 422 273545",
+        "ranking": "Top 3 state universities in Georgia",
+        "accreditation": [
+          "Ministry of Education and Science of Georgia",
+          "World Health Organization (WHO) Directory",
+          "World Federation for Medical Education (WFME)"
+        ],
+        "foundingYear": 1945,
+        "academicFacilities": [
+          "University clinics",
+          "Research laboratories",
+          "Modern medical library",
+          "Simulation center",
+          "Botanical garden for medicinal plants"
+        ],
+        "studentLife": {
+          "accommodation": "University dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student scientific society",
+            "Cultural festivals",
+            "Sports competitions",
+            "Beach activities"
+          ]
+        }
+      },
+      {
+        "id": "geo-4",
+        "name": "Ilia State University",
+        "country": "Georgia",
+        "description": "Leading research university with innovative approach to medical education",
+        "longDescription": "Ilia State University is one of Georgia's premier research institutions with a modern approach to medical education. The university emphasizes interdisciplinary learning, research skills development, and international collaboration, preparing students for both clinical practice and academic medicine careers.",
+        "image": "https://example.com/images/ilia_state.jpg",
+        "campusArea": "20 hectares",
+        "programmes": [
+          "Medicine (6 years)",
+          "Public Health (4 years)",
+          "Medical Research (4 years)",
+          "Nursing (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$5,200 per year",
+          "localStudents": "2,250 GEL per year"
+        },
+        "email": "international@iliauni.edu.ge",
+        "website": "https://iliauni.edu.ge/en/",
+        "address": "3/5 Cholokashvili Avenue, Tbilisi 0162, Georgia",
+        "contactNumber": "+995 32 2223103",
+        "ranking": "Top research university in Georgia",
+        "accreditation": [
+          "Ministry of Education and Science of Georgia",
+          "National Center for Educational Quality Enhancement",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 2006,
+        "academicFacilities": [
+          "Research institutes",
+          "Modern laboratories",
+          "Digital library resources",
+          "Partner teaching hospitals",
+          "Innovation centers"
+        ],
+        "studentLife": {
+          "accommodation": "University dormitories and housing assistance",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Research grants for students",
+            "Scientific conferences",
+            "Cultural clubs",
+            "Volunteer medical programs"
+          ]
+        }
+      },
+      {
+        "id": "kaz-1",
+        "name": "International Medical School (IMS)",
+        "country": "Kazakhstan",
+        "description": "Modern international medical school with globally oriented curriculum",
+        "longDescription": "The International Medical School (IMS) in Kazakhstan is designed to provide world-class medical education with international faculty and modern teaching methodologies. The curriculum is aligned with global medical education standards, preparing students for international medical licensing examinations and global healthcare practice.",
+        "image": "https://example.com/images/ims_kazakhstan.jpg",
+        "campusArea": "15 hectares",
+        "programmes": [
+          "General Medicine (5 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Public Health (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$5,500 per year",
+          "localStudents": "2,200,000 tenge per year"
+        },
+        "email": "admissions@ims.kz",
+        "website": "https://www.ims.kz",
+        "address": "53 Abylai Khan Avenue, Almaty, Kazakhstan",
+        "contactNumber": "+7 727 2546789",
+        "ranking": "Leading international medical institution in Kazakhstan",
+        "accreditation": [
+          "Ministry of Education and Science of Kazakhstan",
+          "Independent Kazakh Agency for Quality Assurance in Education",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 2007,
+        "academicFacilities": [
+          "Advanced simulation center",
+          "Research laboratories",
+          "Digital learning hub",
+          "Clinical skills center",
+          "Partner teaching hospitals"
+        ],
+        "studentLife": {
+          "accommodation": "Modern campus dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student research organization",
+            "Medical volunteer opportunities",
+            "International medical conferences",
+            "Cultural exchange programs"
+          ]
+        }
+      },
+      {
+        "id": "kaz-2",
+        "name": "Semey State Medical University",
+        "country": "Kazakhstan",
+        "description": "Historic medical university in Eastern Kazakhstan with strong clinical focus",
+        "longDescription": "Semey State Medical University (formerly Semipalatinsk State Medical University) has a long history dating back to 1953. The university is known for its strong clinical training and research on environmental medicine, particularly related to the effects of nuclear testing in the region. It offers a comprehensive medical education with modern facilities and international collaborations.",
+        "image": "https://example.com/images/semey_medical.jpg",
+        "campusArea": "25 hectares",
+        "programmes": [
+          "General Medicine (5 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Public Health (4 years)",
+          "Nursing (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,800 per year",
+          "localStudents": "1,800,000 tenge per year"
+        },
+        "email": "smu@med.kz",
+        "website": "https://www.ssmu.kz/en/",
+        "address": "103 Abay Street, Semey, East Kazakhstan Region, Kazakhstan",
+        "contactNumber": "+7 7222 521983",
+        "ranking": "Top 10 medical universities in Kazakhstan",
+        "accreditation": [
+          "Ministry of Education and Science of Kazakhstan",
+          "Independent Kazakh Agency for Quality Assurance in Education",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 1953,
+        "academicFacilities": [
+          "University clinics",
+          "Research centers",
+          "Nuclear medicine center",
+          "Modern library",
+          "Simulation center"
+        ],
+        "studentLife": {
+          "accommodation": "University dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student scientific society",
+            "Medical volunteering",
+            "Sports facilities",
+            "Cultural events"
+          ]
+        }
+      },
+      {
+        "id": "kaz-3",
+        "name": "South Kazakhstan State Medical Academy",
+        "country": "Kazakhstan",
+        "description": "Leading medical institution in southern Kazakhstan with rich educational traditions",
+        "longDescription": "South Kazakhstan State Medical Academy in Shymkent is a major medical education center for southern Kazakhstan. The academy combines traditional medical teaching methods with modern technologies, focusing on addressing regional healthcare challenges and preparing physicians for both urban and rural practice.",
+        "image": "https://example.com/images/south_kazakhstan_med.jpg",
+        "campusArea": "18 hectares",
+        "programmes": [
+          "General Medicine (5 years)",
+          "Pediatrics (5 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Preventive Medicine (5 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,500 per year",
+          "localStudents": "1,700,000 tenge per year"
+        },
+        "email": "info@skma.kz",
+        "website": "https://www.skma.kz",
+        "address": "1 Al-Farabi Square, Shymkent, Kazakhstan",
+        "contactNumber": "+7 7252 395983",
+        "ranking": "Top 5 medical institutions in Kazakhstan",
+        "accreditation": [
+          "Ministry of Education and Science of Kazakhstan",
+          "Independent Kazakh Agency for Quality Assurance in Education",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 1979,
+        "academicFacilities": [
+          "Modern teaching hospital",
+          "Research laboratories",
+          "Clinical skills center",
+          "Digital library",
+          "Medical simulation center"
+        ],
+        "studentLife": {
+          "accommodation": "Multiple dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student research associations",
+            "Medical volunteer corps",
+            "Sports activities",
+            "Cultural events"
+          ]
+        }
+      },
+      {
+        "id": "uzb-1",
+        "name": "Fergana Medical Institute of Public Health",
+        "country": "Uzbekistan",
+        "description": "Regional medical institution focused on public health education in Fergana Valley",
+        "longDescription": "Fergana Medical Institute of Public Health specializes in training medical professionals with emphasis on community and public health issues relevant to the Fergana Valley region. The institute combines traditional Uzbek medical knowledge with modern international medical standards to address local healthcare challenges.",
+        "image": "https://example.com/images/fergana_med.jpg",
+        "campusArea": "12 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Pediatrics (6 years)",
+          "Public Health (5 years)",
+          "Nursing (4 years)",
+          "Medical Prevention (5 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$3,800 per year",
+          "localStudents": "25,000,000 som per year"
+        },
+        "email": "info@fermi.uz",
+        "website": "https://www.fermi.uz",
+        "address": "86 Al-Fergani Street, Fergana, Uzbekistan",
+        "contactNumber": "+998 73 2441234",
+        "ranking": "Regional leader in public health education",
+        "accreditation": [
+          "Ministry of Higher and Secondary Specialized Education of Uzbekistan",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 1991,
+        "academicFacilities": [
+          "Public health research center",
+          "Teaching clinics",
+          "Epidemiology laboratories",
+          "Regional health data center",
+          "Medical library"
+        ],
+        "studentLife": {
+          "accommodation": "Institute dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Public health campaigns",
+            "Community medicine projects",
+            "Cultural events",
+            "Sports facilities"
+          ]
+        }
+      },
+      {
+        "id": "uzb-2",
+        "name": "Samarkand State Medical Institute",
+        "country": "Uzbekistan",
+        "description": "Historic medical institution in the ancient city of Samarkand",
+        "longDescription": "Founded in 1930, Samarkand State Medical Institute is one of the oldest medical schools in Central Asia, located in the historic city of Samarkand. The institute offers comprehensive medical education combining rich educational traditions with modern medical technologies and practices, attracting students from many countries.",
+        "image": "https://example.com/images/samarkand_med.jpg",
+        "campusArea": "30 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Pediatrics (6 years)",
+          "Medical Prevention (5 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Medical Pedagogy (5 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,200 per year",
+          "localStudents": "28,000,000 som per year"
+        },
+        "email": "international@sammi.uz",
+        "website": "https://www.sammi.uz/en/",
+        "address": "18 Amir Temur Street, Samarkand, Uzbekistan",
+        "contactNumber": "+998 66 2333272",
+        "ranking": "Top 3 medical institutions in Uzbekistan",
+        "accreditation": [
+          "Ministry of Higher and Secondary Specialized Education of Uzbekistan",
+          "World Health Organization (WHO) Directory",
+          "Medical Council of India (MCI)"
+        ],
+        "foundingYear": 1930,
+        "academicFacilities": [
+          "University clinics",
+          "Modern research laboratories",
+          "Historical medical museum",
+          "Scientific library",
+          "Simulation center"
+        ],
+        "studentLife": {
+          "accommodation": "Multiple comfortable dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student scientific society",
+            "Medical volunteers",
+            "International cultural events",
+            "Sports competitions"
+          ]
+        }
+      },
+      {
+        "id": "uzb-3",
+        "name": "Tashkent Medical Academy",
+        "country": "Uzbekistan",
+        "description": "Leading medical university in the capital of Uzbekistan",
+        "longDescription": "Tashkent Medical Academy is the flagship medical institution in Uzbekistan, located in the capital city. Established in 1920, it has a long tradition of excellence in medical education, research, and clinical practice. The academy offers multifaceted medical training with strong emphasis on clinical competence and research capabilities.",
+        "image": "https://example.com/images/tashkent_med.jpg",
+        "campusArea": "40 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Medical Prevention (5 years)",
+          "Pediatrics (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Medical Biology (5 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,500 per year",
+          "localStudents": "30,000,000 som per year"
+        },
+        "email": "rector@tma.uz",
+        "website": "https://www.tma.uz/en/",
+        "address": "2 Farobi Street, Tashkent 100109, Uzbekistan",
+        "contactNumber": "+998 71 2333463",
+        "ranking": "Top medical university in Uzbekistan",
+        "accreditation": [
+          "Ministry of Higher and Secondary Specialized Education of Uzbekistan",
+          "World Health Organization (WHO) Directory",
+          "Medical Council of India (MCI)",
+          "Educational Commission for Foreign Medical Graduates (ECFMG)"
+        ],
+        "foundingYear": 1920,
+        "academicFacilities": [
+          "Multiple teaching hospitals",
+          "Advanced research centers",
+          "Modern simulation center",
+          "Extensive medical library",
+          "Specialized clinical training facilities"
+        ],
+        "studentLife": {
+          "accommodation": "Several campus dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "National and international scientific conferences",
+            "Medical student organizations",
+            "Cultural exchange programs",
+            "Sports facilities and competitions"
+          ]
+        }
+      },
+      {
+        "id": "kgz-1",
+        "name": "International Medical University (IMU)",
+        "country": "Kyrgyzstan",
+        "description": "Modern international medical university with global recognition",
+        "longDescription": "International Medical University in Kyrgyzstan focuses on providing world-class medical education to both local and international students. With English as the primary medium of instruction, the university prepares graduates for international medical practice with curriculum designed to meet global standards and licensing requirements.",
+        "image": "https://example.com/images/imu_kyrgyzstan.jpg",
+        "campusArea": "15 hectares",
+        "programmes": [
+          "General Medicine (5 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Pediatrics (5 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$4,000 per year",
+          "localStudents": "210,000 som per year"
+        },
+        "email": "info@imu.kg",
+        "website": "https://www.imu.kg",
+        "address": "1/5 Togolok Moldo Street, Bishkek, Kyrgyzstan",
+        "contactNumber": "+996 312 381256",
+        "ranking": "Leading international medical institution in Kyrgyzstan",
+        "accreditation": [
+          "Ministry of Education and Science of Kyrgyz Republic",
+          "World Health Organization (WHO) Directory",
+          "Medical Council of India (MCI)"
+        ],
+        "foundingYear": 2004,
+        "academicFacilities": [
+          "Modern medical campus",
+          "Simulation center",
+          "Well-equipped laboratories",
+          "Digital library",
+          "Teaching hospital affiliations"
+        ],
+        "studentLife": {
+          "accommodation": "University hostels",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "International student association",
+            "Clinical attachment programs",
+            "Cultural exchange events",
+            "Sports activities"
+          ]
+        }
+      },
+      {
+        "id": "kgz-2",
+        "name": "Jalalabad State Medical University",
+        "country": "Kyrgyzstan",
+        "description": "Regional medical university serving southern Kyrgyzstan",
+        "longDescription": "Jalalabad State Medical University is focused on addressing the healthcare needs of southern Kyrgyzstan while providing quality medical education to both local and international students. The university emphasizes practical clinical skills and community-oriented medical practice relevant to the region's healthcare challenges.",
+        "image": "https://example.com/images/jalalabad_med.jpg",
+        "campusArea": "10 hectares",
+        "programmes": [
+          "General Medicine (5 years)",
+          "Pediatrics (5 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Nursing (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$3,800 per year",
+          "localStudents": "200,000 som per year"
+        },
+        "email": "info@jsmu.kg",
+        "website": "https://www.jsmu.kg",
+        "address": "57 Lenin Street, Jalalabad, Kyrgyzstan",
+        "contactNumber": "+996 3722 22364",
+        "ranking": "Leading medical institution in southern Kyrgyzstan",
+        "accreditation": [
+          "Ministry of Education and Science of Kyrgyz Republic",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 2008,
+        "academicFacilities": [
+          "Regional teaching hospital",
+          "Basic science laboratories",
+          "Clinical skills center",
+          "Computer facilities",
+          "Medical library"
+        ],
+        "studentLife": {
+          "accommodation": "University dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Medical volunteer programs",
+            "Community health initiatives",
+            "Cultural events",
+            "Sports competitions"
+          ]
+        }
+      },
+      {
+        "id": "kgz-3",
+        "name": "Osh State University",
+        "country": "Kyrgyzstan",
+        "description": "Historic university with strong medical faculty in Kyrgyzstan's southern capital",
+        "longDescription": "Osh State University's Medical Faculty is one of the most established medical education centers in southern Kyrgyzstan. Located in the ancient city of Osh, the university combines traditional Central Asian medical knowledge with modern medical science, offering comprehensive medical education in multiple languages.",
+        "image": "https://example.com/images/osh_state.jpg",
+        "campusArea": "35 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Pediatrics (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Public Health (5 years)",
+          "Medical Prevention (5 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$3,900 per year",
+          "localStudents": "205,000 som per year"
+        },
+        "email": "international@oshsu.kg",
+        "website": "https://www.oshsu.kg/en/",
+        "address": "331 Lenin Street, Osh, Kyrgyzstan",
+        "contactNumber": "+996 3222 45247",
+        "ranking": "One of the top 3 universities in Kyrgyzstan",
+        "accreditation": [
+          "Ministry of Education and Science of Kyrgyz Republic",
+          "World Health Organization (WHO) Directory",
+          "Medical Council of India (MCI)"
+        ],
+        "foundingYear": 1939,
+        "academicFacilities": [
+          "University clinics",
+          "Scientific research center",
+          "Anatomy museum",
+          "Medical library",
+          "Simulation center"
+        ],
+        "studentLife": {
+          "accommodation": "Multiple campus dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student scientific society",
+            "Cultural diversity programs",
+            "Sports facilities",
+            "Community service programs"
+          ]
+        }
+      },
+      {
+        "id": "nep-1",
+        "name": "Nobel Medical College",
+        "country": "Nepal",
+        "description": "Modern medical institution in eastern Nepal with comprehensive facilities",
+        "longDescription": "Nobel Medical College in Biratnagar is one of the premier medical institutions in eastern Nepal, offering quality medical education with state-of-the-art facilities. The college focuses on practical clinical training through its 750-bed teaching hospital while maintaining high academic standards in accordance with national and international requirements.",
+        "image": "https://example.com/images/nobel_medical.jpg",
+        "campusArea": "20 hectares",
+        "programmes": [
+          "MBBS (5.5 years)",
+          "BDS (5 years)",
+          "B.Pharm (4 years)",
+          "BSc Nursing (4 years)",
+          "BPT (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$55,000 total program fee",
+          "localStudents": "NPR 4,800,000 total program fee"
+        },
+        "email": "info@nobelmedicalcollege.edu.np",
+        "website": "https://www.nobelmedicalcollege.edu.np",
+        "address": "Kanchanbari, Biratnagar-5, Nepal",
+        "contactNumber": "+977 21 460736",
+        "ranking": "Top 5 medical colleges in Nepal",
+        "accreditation": [
+          "Nepal Medical Council",
+          "Kathmandu University",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 2006,
+        "academicFacilities": [
+          "750-bed teaching hospital",
+          "Advanced laboratories",
+          "Modern library",
+          "Clinical skills lab",
+          "Simulation center"
+        ],
+        "studentLife": {
+          "accommodation": "College hostels for boys and girls",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Medical conferences",
+            "Sports facilities",
+            "Cultural events",
+            "Community health camps"
+          ]
+        }
+      },
+      {
+        "id": "nep-2",
+        "name": "Birat Medical College",
+        "country": "Nepal",
+        "description": "Quality medical institution in Biratnagar with strong clinical emphasis",
+        "longDescription": "Birat Medical College, affiliated with Purbanchal University, offers quality medical education in eastern Nepal with focus on clinical competence and community healthcare. The college features modern facilities and a dedicated teaching hospital providing students with extensive practical experience while serving the local community.",
+        "image": "https://example.com/images/birat_medical.jpg",
+        "campusArea": "15 hectares",
+        "programmes": [
+          "MBBS (5.5 years)",
+          "BDS (5 years)",
+          "BSc Nursing (4 years)",
+          "BPT (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$52,000 total program fee",
+          "localStudents": "NPR 4,600,000 total program fee"
+        },
+        "email": "info@biratmedicalcollege.edu.np",
+        "website": "https://www.biratmedicalcollege.edu.np",
+        "address": "Tankisinuwari, Morang, Nepal",
+        "contactNumber": "+977 21 436200",
+        "ranking": "Recognized medical college in Nepal",
+        "accreditation": [
+          "Nepal Medical Council",
+          "Purbanchal University",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 2009,
+        "academicFacilities": [
+          "Teaching hospital",
+          "Anatomy museum",
+          "Clinical skills center",
+          "Digital library",
+          "Research facilities"
+        ],
+        "studentLife": {
+          "accommodation": "Separate hostels for male and female students",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Community health programs",
+            "Sports activities",
+            "Medical symposiums",
+            "Cultural events"
+          ]
+        }
+      },
+      {
+        "id": "nep-3",
+        "name": "Kathmandu Medical College",
+        "country": "Nepal",
+        "description": "Established medical college in Nepal's capital with excellent reputation",
+        "longDescription": "Kathmandu Medical College (KMC) is a leading medical institution in Nepal's capital, affiliated with Kathmandu University. Known for its quality education and comprehensive clinical training, KMC combines academic excellence with community service through its teaching hospital and outreach programs in both urban and rural areas.",
+        "image": "https://example.com/images/kathmandu_medical.jpg",
+        "campusArea": "12 hectares",
+        "programmes": [
+          "MBBS (5.5 years)",
+          "BDS (5 years)",
+          "BSc Nursing (4 years)",
+          "B.Pharm (4 years)",
+          "BMLT (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$60,000 total program fee",
+          "localStudents": "NPR 5,000,000 total program fee"
+        },
+        "email": "info@kmc.edu.np",
+        "website": "https://www.kmc.edu.np",
+        "address": "Sinamangal, Kathmandu, Nepal",
+        "contactNumber": "+977 1 4469064",
+        "ranking": "Top 3 medical colleges in Nepal",
+        "accreditation": [
+          "Nepal Medical Council",
+          "Kathmandu University",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 1997,
+        "academicFacilities": [
+          "700-bed teaching hospital",
+          "Modern laboratories",
+          "Well-equipped library",
+          "Clinical skills lab",
+          "Research center"
+        ],
+        "studentLife": {
+          "accommodation": "Multiple hostels in different locations",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "KMC Journal Club",
+            "Medical conferences",
+            "Community health camps",
+            "Sports and cultural activities"
+          ]
+        }
+      },
+      {
+        "id": "nep-4",
+        "name": "KIST Medical College",
+        "country": "Nepal",
+        "description": "Quality medical institution in Lalitpur with community focus",
+        "longDescription": "KIST Medical College, located in Lalitpur near Kathmandu, is committed to excellence in medical education with strong emphasis on social accountability and community health. The college provides comprehensive medical training with modern facilities and dedicated teaching hospital serving both educational purposes and community healthcare needs.",
+        "image": "https://example.com/images/kist_medical.jpg",
+        "campusArea": "10 hectares",
+        "programmes": [
+          "MBBS (5.5 years)",
+          "BDS (5 years)",
+          "BSc Nursing (4 years)",
+          "BPT (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$58,000 total program fee",
+          "localStudents": "NPR 4,900,000 total program fee"
+        },
+        "email": "info@kistmc.edu.np",
+        "website": "https://www.kistmc.edu.np",
+        "address": "Imadol, Lalitpur, Nepal",
+        "contactNumber": "+977 1 5201680",
+        "ranking": "Top 10 medical colleges in Nepal",
+        "accreditation": [
+          "Nepal Medical Council",
+          "Tribhuvan University",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 2006,
+        "academicFacilities": [
+          "Teaching hospital",
+          "Medical laboratories",
+          "Digital library",
+          "Clinical skills center",
+          "Community health center"
+        ],
+        "studentLife": {
+          "accommodation": "Separate hostels for males and females",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Rural health programs",
+            "Annual medical symposium",
+            "Sports competitions",
+            "Cultural events"
+          ]
+        }
+      },
+      {
+        "id": "vie-1",
+        "name": "Hong Bang International University",
+        "country": "Vietnam",
+        "description": "Modern international university with strong medical programs in Ho Chi Minh City",
+        "longDescription": "Hong Bang International University in Ho Chi Minh City offers comprehensive medical education with international standards and partnerships. The university focuses on practical skills development through modern facilities and clinical practice opportunities while maintaining academic rigor and research capabilities.",
+        "image": "https://example.com/images/hong_bang.jpg",
+        "campusArea": "15 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Dentistry (5 years)",
+          "Pharmacy (5 years)",
+          "Nursing (4 years)",
+          "Medical Laboratory Technology (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$6,000 per year",
+          "localStudents": "125,000,000 VND per year"
+        },
+        "email": "international@hiu.vn",
+        "website": "https://www.hiu.vn/en/",
+        "address": "215 Dien Bien Phu Street, Ward 15, Binh Thanh District, Ho Chi Minh City, Vietnam",
+        "contactNumber": "+84 28 3510 0017",
+        "ranking": "Top private university in Vietnam",
+        "accreditation": [
+          "Ministry of Education and Training of Vietnam",
+          "ASEAN University Network Quality Assurance",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 1997,
+        "academicFacilities": [
+          "Modern medical campus",
+          "Simulation center",
+          "Research laboratories",
+          "Digital library",
+          "Partner hospitals for clinical practice"
+        ],
+        "studentLife": {
+          "accommodation": "University dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Student research groups",
+            "Medical volunteer programs",
+            "International exchange opportunities",
+            "Cultural and sports activities"
+          ]
+        }
+      },
+      {
+        "id": "vie-2",
+        "name": "Vo Truong Toan (VTT) University",
+        "country": "Vietnam",
+        "description": "Private medical university in the Mekong Delta region",
+        "longDescription": "Vo Truong Toan University specializes in healthcare education in Vietnam's Mekong Delta region. The university focuses on producing medical professionals to address regional healthcare needs with particular emphasis on tropical medicine and community health issues relevant to southern Vietnam.",
+        "image": "https://example.com/images/vtt_university.jpg",
+        "campusArea": "10 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Pharmacy (5 years)",
+          "Nursing (4 years)",
+          "Public Health (4 years)",
+          "Medical Laboratory Science (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$5,500 per year",
+          "localStudents": "110,000,000 VND per year"
+        },
+        "email": "international@vttu.edu.vn",
+        "website": "https://www.vttu.edu.vn",
+        "address": "Campus 1, 376 Nguyen Thai Hoc Street, Ward 5, Vinh Long City, Vietnam",
+        "contactNumber": "+84 270 3872 373",
+        "ranking": "Regional leader in medical education",
+        "accreditation": [
+          "Ministry of Education and Training of Vietnam",
+          "Vietnam National University - Ho Chi Minh City System"
+        ],
+        "foundingYear": 2015,
+        "academicFacilities": [
+          "Teaching hospital",
+          "Modern laboratories",
+          "Regional disease research center",
+          "Community health outreach center",
+          "Medical library"
+        ],
+        "studentLife": {
+          "accommodation": "University dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Rural health programs",
+            "Mekong Delta medical research",
+            "Cultural activities",
+            "Sports facilities"
+          ]
+        }
+      },
+      {
+        "id": "vie-3",
+        "name": "Can Tho University",
+        "country": "Vietnam",
+        "description": "Comprehensive university with strong medical faculty in the Mekong Delta",
+        "longDescription": "Can Tho University's School of Medicine offers quality medical education in Vietnam's Mekong Delta region. As part of one of Vietnam's leading universities, the medical school combines strong academic traditions with modern educational approaches, focusing on addressing the region's specific healthcare challenges.",
+        "image": "https://example.com/images/can_tho_university.jpg",
+        "campusArea": "60 hectares",
+        "programmes": [
+          "General Medicine (6 years)",
+          "Pharmacy (5 years)",
+          "Nursing (4 years)",
+          "Public Health (4 years)",
+          "Medical Laboratory Technology (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$5,800 per year",
+          "localStudents": "52,000,000 VND per year"
+        },
+        "email": "dhct@ctu.edu.vn",
+        "website": "https://www.ctu.edu.vn/en/",
+        "address": "Campus II, 3/2 Street, Ninh Kieu District, Can Tho City, Vietnam",
+        "contactNumber": "+84 292 3832 663",
+        "ranking": "Top 5 universities in Vietnam",
+        "accreditation": [
+          "Ministry of Education and Training of Vietnam",
+          "ASEAN University Network Quality Assurance",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 1966,
+        "academicFacilities": [
+          "University hospital",
+          "Research centers",
+          "Modern laboratories",
+          "Extensive library",
+          "Simulation training center"
+        ],
+        "studentLife": {
+          "accommodation": "Multiple campus dormitories",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Scientific research clubs",
+            "Community healthcare services",
+            "Cultural and sports events",
+            "International exchange programs"
+          ]
+        }
+      },
+      {
+        "id": "ban-1",
+        "name": "Bashundhara Ad-din Medical College Dhaka",
+        "country": "Bangladesh",
+        "description": "Modern private medical college in the capital with excellent facilities",
+        "longDescription": "Bashundhara Ad-din Medical College is a premier private medical institution in Dhaka, equipped with modern facilities and dedicated teaching hospital. The college emphasizes clinical excellence through extensive practical training and maintains high academic standards in accordance with Bangladesh Medical and Dental Council requirements.",
+        "image": "https://example.com/images/bashundhara_medical.jpg",
+        "campusArea": "10 hectares",
+        "programmes": [
+          "MBBS (5 years)",
+          "BDS (5 years)",
+          "Diploma in Medical Technology (4 years)",
+          "BSc Nursing (4 years)"
+        ],
+        "tuitionFees": {
+          "internationalStudents": "$45,000 total program fee",
+          "localStudents": "BDT 6,000,000 total program fee"
+        },
+        "email": "info@addinmedical.edu.bd",
+        "website": "https://www.addinmedical.edu.bd",
+        "address": "Bashundhara Residential Area, Dhaka, Bangladesh",
+        "contactNumber": "+880 2 8431661",
+        "ranking": "Top 10 private medical colleges in Bangladesh",
+        "accreditation": [
+          "Bangladesh Medical and Dental Council",
+          "Ministry of Health and Family Welfare",
+          "University of Dhaka",
+          "World Health Organization (WHO) Directory"
+        ],
+        "foundingYear": 2013,
+        "academicFacilities": [
+          "500-bed teaching hospital",
+          "Modern laboratories",
+          "Digital library",
+          "Clinical skills center",
+          "Research facilities"
+        ],
+        "studentLife": {
+          "accommodation": "Separate hostels for male and female students",
+          "internationalStudentSupport": true,
+          "extracurricularActivities": [
+            "Medical seminars",
+            "Community health camps",
+            "Cultural programs",
+            "Sports competitions"
+          ]
+        }
+      }
+    ]

@@ -1,0 +1,27 @@
+@keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  
+  .carousel-track {
+    animation: scroll 30s linear infinite;
+    display: flex;
+    width: fit-content;
+  }
+  
+  /* For smaller screens */
+  @media (max-width: 768px) {
+    .carousel-track {
+      animation-duration: 20s;
+    }
+  }
+  
+  /* Optional: Smooth the animation on hover */
+  .carousel-track:hover {
+    animation-play-state: paused;
+  }
+  
