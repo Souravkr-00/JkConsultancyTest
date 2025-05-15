@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroCarousel from '../components/common/HeroCarousel.jsx'
+
 import FlagsHeroSection from '../components/home/FlagsHeroSection.jsx'
 import CollegesGrid from '../components/home/CollegesGrid.jsx'
 import { AuroraHero } from '../components/common/AuroraHero.jsx'

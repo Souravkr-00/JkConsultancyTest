@@ -15,11 +15,11 @@ export default function VideoHeroBanner() {
     // Initialize YouTube player when API is ready
     window.onYouTubeIframeAPIReady = () => {
       playerRef.current = new window.YT.Player('youtube-player', {
-        videoId: 'FhLOsV-TdUg', // YouTube video ID from the link
+        videoId: 'rzGn1MnxUxc', // YouTube video ID from the link
         playerVars: {
           autoplay: 1,
           loop: 1,
-          playlist: 'FhLOsV-TdUg', // Required for looping
+          playlist: 'rzGn1MnxUxc', // Required for looping
           controls: 0,
           showinfo: 0,
           rel: 0,
@@ -60,7 +60,7 @@ export default function VideoHeroBanner() {
       <div className="absolute inset-0 w-full h-full pointer-events-none">
         {/* This container maintains the aspect ratio and centers the video */}
         <div className="relative w-full h-full">
-          <div id="youtube-player" className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[300%] h-[300%] min-w-[100%] min-h-[100%]"></div>
+          <div id="youtube-player" className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[200%] h-[200%] min-w-[100%] min-h-[100%]"></div>
           
           {/* Fallback while YouTube loads */}
           {!isPlayerReady && (

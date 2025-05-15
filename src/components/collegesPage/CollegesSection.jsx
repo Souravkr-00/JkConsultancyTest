@@ -205,6 +205,7 @@ export default function CollegesSection() {
               {filteredColleges
                 .filter(college => college.country === country)
                 .map((college, index) => (
+                  <a href={`colleges/${college.name}`}>
                   <div
                     key={college.id}
                     data-id={college.id}
@@ -217,7 +218,7 @@ export default function CollegesSection() {
                     <div className="h-40 bg-gray-200 relative overflow-hidden">
                       {/* We're using a placeholder div instead of an actual image */}
                       <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center">
-                        <School className="w-16 h-16 text-white opacity-50" />
+                        <img src={college.image} alt={college.name} className="w-full h-full object-cover" />
                       </div>
                       <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4">
                         <h3 className="text-white font-semibold text-lg leading-tight">{college.name}</h3>
@@ -305,6 +306,7 @@ export default function CollegesSection() {
                       )}
                     </div>
                   </div>
+                  </a>
                 ))}
             </div>
           </div>
