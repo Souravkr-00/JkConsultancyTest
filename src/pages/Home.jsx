@@ -9,6 +9,7 @@ import CoursesSection from '../components/home/CoursesSection.jsx'
 import VideoTestimonials from '../components/home/VideoTestimonials.jsx'
 import FAQSection from '../components/common/FAQSection.jsx'
 import VideoHeroBanner from '../components/common/VideoHeroBanner.jsx'
+import TestimonialsPage from './TestimonialsPage.jsx'
 
 function Home() {
   return (
@@ -23,7 +24,7 @@ function Home() {
         <VideoTestimonials/>
         <AuroraHero/>
          <FAQSection/>
-         
+         <TestimonialsPage/>
         
     </div>
   )

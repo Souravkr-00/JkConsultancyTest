@@ -190,6 +190,7 @@ export default function CoursesSection() {
       {/* Course Cards */}
       <div ref={coursesRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         {filteredCourses.map((course, index) => (
+          <a href="">
           <div
             key={index}
             data-id={index}
@@ -221,6 +222,7 @@ export default function CoursesSection() {
               </div>
             </div>
           </div>
+          </a>
         ))}
       </div>
       

@@ -8,6 +8,7 @@ import WhatsAppButton from "./components/common/WhatsAppButton";
 import BookConsultancy from "./pages/BookConsultancy";
 import ContactUs from "./pages/ContactUs";
 import CollegeDetail from "./pages/CollegeDetail";
+import StudentServicesPage from "./pages/StudentServicesPage";
 
 function App() {
   
@@ -21,6 +22,7 @@ function App() {
         <Route path="/colleges" element={<Colleges/>} />
         <Route path="/bookconsult" element={<BookConsultancy/>} />
         <Route path="/about-us/contact-us" element={<ContactUs/>} />
+        <Route path="/student-services" element={<StudentServicesPage/>} />
 
         <Route path="/colleges/:collegeName" element={<CollegeDetail/>} />
         {/* <Route path="*" element={<NotFound />} /> */}

@@ -55,7 +55,7 @@ export default function VideoHeroBanner() {
   }, []);
 
   return (
-    <div className="relative h-[70vh] w-full overflow-hidden">
+    <div className="relative h-[50vh] sm:h-[70vh] w-full overflow-hidden">
       {/* YouTube Video Background */}
       <div className="absolute inset-0 w-full h-full pointer-events-none">
         {/* This container maintains the aspect ratio and centers the video */}
