@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { Search, MapPin, School, Users, Calendar, ExternalLink, ChevronDown, ChevronUp } from 'lucide-react';
-import collegesData from '../../data.json';
+import collegesData from '../../data/data.json';
 export default function CollegesSection() {
   const [colleges, setColleges] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');

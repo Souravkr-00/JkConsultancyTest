@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Russia",
+    "slug": "russia",
+    "shortDescription": "Russia is a popular destination for medical education due to its affordable tuition and global recognition.",
+    "longDescription": "Russia has consistently remained one of the top choices for international students, especially for those pursuing MBBS. Its medical universities are globally recognized by WHO, UNESCO, and other major bodies, ensuring that degrees are accepted worldwide. The country boasts a rich cultural history, modern infrastructure, and an excellent academic framework. Students are attracted to Russia not only for its affordability but also for its technological advancements in medical science, hands-on clinical exposure, and qualified teaching professionals. Moreover, English-taught programs, diverse international student communities, and a supportive educational environment make Russia an ideal destination for higher education. Russia's strong diplomatic and educational ties with countries like India, Nepal, and Bangladesh make the transition easier for students from South Asia.",
+    "whyStudyHere": [
+      "Globally recognized degrees",
+      "Affordable tuition and cost of living ",
+      "No entrance exams for MBBS",
+      "English-taught programs"
+    ],
+    "topUniversities": [
+      "Lomonosov Moscow State University",
+      "Kazan Federal University",
+      "Sechenov University"
+    ],
+    "popularCourses": ["MBBS", "Engineering", "Aerospace", "International Relations"],
+    "requirements": {
+      "academic": "Minimum 50% in PCB for MBBS, 12th pass for other courses",
+      "language": "IELTS not mandatory for many programs",
+      "others": "Passport, medical tests, financial proof"
+    },
+    "visaProcess": "Submit admission letter, apply for visa at the Russian Embassy, attend interview (if required), and receive student visa.",
+    "tuitionFeeRange": "$3,000 - $7,000 per year",
+    "livingCost": "$100 - $300/month (excluding accommodation)",
+    "image": "/images/countries/russia.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Armenia",
+    "slug": "armenia",
+    "shortDescription": "Armenia offers affordable and quality education with increasing popularity for MBBS and engineering students.",
+    "longDescription": "Armenia is fast gaining popularity among international students for its growing academic ecosystem and English-medium medical programs. It offers affordable tuition fees without compromising on educational quality. Armenian universities are recognized by major global medical councils, allowing graduates to practice worldwide. The country offers a safe, culturally rich, and student-friendly environment, making it an ideal place for education. With European-style campus infrastructure, highly experienced faculty, and increasing cooperation with international universities, Armenia has positioned itself as an emerging educational hub in Eurasia. The admission process is simple and transparent, making it accessible even for students from middle-income families.",
+    "whyStudyHere": [
+      "Safe and student-friendly environment",
+      "Low tuition fees",
+      "Simple admission process",
+      "English-medium programs"
+    ],
+    "topUniversities": [
+      "Yerevan State Medical University",
+      "American University of Armenia",
+      "Russian-Armenian University"
+    ],
+    "popularCourses": ["MBBS", "Pharmacy", "Engineering", "Business Studies"],
+    "requirements": {
+      "academic": "Minimum 50% in relevant subjects",
+      "language": "English proficiency recommended",
+      "others": "Passport, academic transcripts"
+    },
+    "visaProcess": "Visa on arrival for many countries; otherwise, apply at Armenian consulate with admission documents.",
+    "tuitionFeeRange": "$2,500 - $5,000 per year",
+    "livingCost": "$150 - $250/month",
+    "image": "/images/countries/armenia.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Georgia",
+    "slug": "georgia",
+    "shortDescription": "Georgia is becoming one of the most preferred destinations for Indian students pursuing MBBS abroad.",
+    "longDescription": "Georgia, located at the crossroads of Europe and Asia, is a beautiful and safe country that has become a hub for international education. Especially known for its medical universities, Georgia provides globally recognized programs at affordable costs. The education system is based on European standards (Bologna Process), making degrees from Georgia acceptable in Europe and many other parts of the world. With well-equipped labs, modern classrooms, and experienced faculty, Georgian universities provide a strong academic environment. The admission process is straightforward with minimal paperwork, and no entrance exams or donations are required. The climate, food, and community support are also favorable for Indian and Asian students.",
+    "whyStudyHere": [
+      "European standard education",
+      "No donation or capitation fees",
+      "Globally recognized degrees (WHO, MCI)",
+      "Safe and affordable"
+    ],
+    "topUniversities": [
+      "Tbilisi State Medical University",
+      "European University",
+      "University of Georgia"
+    ],
+    "popularCourses": ["MBBS", "Dentistry", "Engineering", "Business Administration"],
+    "requirements": {
+      "academic": "Minimum 50% in PCB for MBBS",
+      "language": "IELTS not required for most universities",
+      "others": "Admission letter, passport, medical certificate"
+    },
+    "visaProcess": "Apply with admission letter, passport, and financial proof. Visa usually granted within 15 working days.",
+    "tuitionFeeRange": "$4,000 - $7,000 per year",
+    "livingCost": "$200 - $400/month",
+    "image": "/images/countries/georgia.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Europe",
+    "slug": "europe",
+    "shortDescription": "Europe offers a wide range of high-quality academic programs with a multicultural learning environment.",
+    "longDescription": "Europe is home to some of the world’s most prestigious universities and diverse academic institutions. Whether it’s engineering in Germany, arts in France, or medicine in Poland, the continent provides unmatched academic standards, vast research opportunities, and professional exposure. With a strong focus on innovation and critical thinking, European education prepares students for global careers. Scholarships and public-funded education in countries like Germany, Norway, and France make higher education more accessible. Europe also offers student-friendly visa policies and easy post-study work opportunities, making it an attractive destination. Studying in Europe also means experiencing rich culture, languages, and diverse international communities.",
+    "whyStudyHere": [
+      "Globally ranked universities",
+      "Innovative teaching and research",
+      "High employment opportunities",
+      "Cultural diversity and exposure"
+    ],
+    "topUniversities": [
+      "University of Oxford (UK)",
+      "Technical University of Munich (Germany)",
+      "University of Warsaw (Poland)"
+    ],
+    "popularCourses": ["Engineering", "Medicine", "Economics", "Computer Science", "Arts & Humanities"],
+    "requirements": {
+      "academic": "Varies by country; usually high school diploma + entrance qualification",
+      "language": "IELTS/TOEFL for English programs; local language certificates for native programs",
+      "others": "Statement of purpose, CV, recommendation letters"
+    },
+    "visaProcess": "Each country has a separate student visa process; generally includes offer letter, financial proof, insurance, and biometrics.",
+    "tuitionFeeRange": "$0 (public) to $15,000/year depending on country and course",
+    "livingCost": "$500 - $1,200/month depending on location",
+    "image": "/images/countries/europe.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kazakhstan",
+    "slug": "kazakhstan",
+    "shortDescription": "Kazakhstan is emerging as a destination for affordable MBBS programs recognized worldwide.",
+    "longDescription": "Kazakhstan has rapidly gained recognition for its robust medical education system and growing number of international students. It offers MBBS programs that follow international standards and are approved by WHO, NMC, and other medical councils. Students benefit from English-taught programs, modern laboratories, experienced professors, and affordable fees. Kazakh universities focus on hands-on training and real-time hospital exposure. The admission process is direct and does not require entrance exams or donations. Kazakhstan’s rich culture, friendly environment, and low cost of living make it highly suitable for students from South Asia and Africa. The government also supports educational reforms to improve international collaboration and academic excellence.",
+    "whyStudyHere": [
+      "Affordable tuition fees",
+      "High-quality infrastructure",
+      "English-medium programs",
+      "Globally recognized degrees"
+    ],
+    "topUniversities": [
+      "Kazakh National Medical University",
+      "Al-Farabi Kazakh National University",
+      "Astana Medical University"
+    ],
+    "popularCourses": ["MBBS", "Nursing", "Dentistry", "Public Health"],
+    "requirements": {
+      "academic": "Minimum 50% in PCB",
+      "language": "English proficiency preferred but not mandatory",
+      "others": "Valid passport, admission letter"
+    },
+    "visaProcess": "Submit required documents to Kazakh embassy or through university, receive invitation letter and apply for visa.",
+    "tuitionFeeRange": "$3,000 - $6,000 per year",
+    "livingCost": "$100 - $250/month",
+    "image": "/images/countries/kazakhstan.jpg"
+  }
+]

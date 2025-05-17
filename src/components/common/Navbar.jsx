@@ -125,7 +125,7 @@ const Navbar = () => {
                       {navigationData[category].map((item) => (
                         <li key={item}>
                           <a 
-                            href={`/${category.toLowerCase().replace(/ /g, "-")}`} 
+                            href={`/${category.toLowerCase().replace(/ /g, "-")}/${item.toLowerCase().replace(/ /g, "-")}`} 
                             className="block text-sm text-gray-600 hover:text-blue-600 hover:bg-gray-50 rounded p-2 transition-all duration-200"
                           >
                             {item}

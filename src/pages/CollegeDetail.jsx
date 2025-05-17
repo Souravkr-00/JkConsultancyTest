@@ -17,7 +17,7 @@ import {
   Book,
   Briefcase
 } from 'lucide-react';
-import collegesData from '../data.json';
+import collegesData from '../data/data.json'; // Adjust the path as necessary
 
 export default function CollegeDetail() {
   const { collegeName } = useParams();

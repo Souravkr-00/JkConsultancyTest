@@ -9,6 +9,9 @@ import BookConsultancy from "./pages/BookConsultancy";
 import ContactUs from "./pages/ContactUs";
 import CollegeDetail from "./pages/CollegeDetail";
 import StudentServicesPage from "./pages/StudentServicesPage";
+import CountryPage from "./pages/CountryPage";
+import AboutUs from "./pages/AboutUs";
+import TestimonialsPage from "./pages/TestimonialsPage";
 
 function App() {
   
@@ -23,8 +26,12 @@ function App() {
         <Route path="/bookconsult" element={<BookConsultancy/>} />
         <Route path="/about-us/contact-us" element={<ContactUs/>} />
         <Route path="/student-services" element={<StudentServicesPage/>} />
+        <Route path="/about-us/our-story" element={<AboutUs/>} />
+        <Route path="/about-us/testimonials" element={<TestimonialsPage/>} />
 
         <Route path="/colleges/:collegeName" element={<CollegeDetail/>} />
+        <Route path="/country/colleges/:countryname" element={<CountryPage/>} />
+
         {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>
     </Router>
