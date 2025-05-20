@@ -12,6 +12,9 @@ import StudentServicesPage from "./pages/StudentServicesPage";
 import CountryPage from "./pages/CountryPage";
 import AboutUs from "./pages/AboutUs";
 import TestimonialsPage from "./pages/TestimonialsPage";
+import Courses from "./pages/Courses";
+import CourseDetail from "./pages/CourseDetail";
+import ServiceDetailsPage from "./pages/ServicesDetailsPage";
 
 function App() {
   
@@ -23,14 +26,17 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/colleges" element={<Colleges/>} />
+        <Route path="/courses" element = {<Courses/>}/>
         <Route path="/bookconsult" element={<BookConsultancy/>} />
         <Route path="/about-us/contact-us" element={<ContactUs/>} />
         <Route path="/student-services" element={<StudentServicesPage/>} />
         <Route path="/about-us/our-story" element={<AboutUs/>} />
         <Route path="/about-us/testimonials" element={<TestimonialsPage/>} />
 
-        <Route path="/colleges/:collegeName" element={<CollegeDetail/>} />
-        <Route path="/country/colleges/:countryname" element={<CountryPage/>} />
+        <Route path="/colleges/college/:collegeName" element={<CollegeDetail/>} />
+        <Route path="/colleges/:countrySlug" element={<CountryPage/>} />
+        <Route path="/courses/:slug" element = {<CourseDetail/>}/>
+        <Route path="/student-services/:serviceName" element={<ServiceDetailsPage/>} />
 
         {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>

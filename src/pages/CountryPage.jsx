@@ -3,12 +3,10 @@ import { useParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { ChevronRight, Book, School, FileCheck, CreditCard, Home, Globe } from 'lucide-react';
 import countriesData from "../data/countriesData.json";
+import CountryCollegeCarousel from '../components/collegesPage/CountryCollegeCarousel';
 // This would typically be fetched from an API or imported
 // For this example, we'll use a mock fetch function
-const fetchCountriesData = async () => {
-  // In a real application, this would be an API call
-  return countriesData;
-};
+
 
 const CountryPage = () => {
   const { countrySlug } = useParams();
@@ -20,8 +18,12 @@ const CountryPage = () => {
     const getCountryData = async () => {
       try {
         setLoading(true);
-        const data = await fetchCountriesData();
-        const countryData = data.find(c => c.slug === countrySlug);
+        const data = countriesData;
+        const countryData = data.filter(c => c.slug === countrySlug)[0];
+        console.log(countrySlug);
+        
+        console.log(countriesData);
+        console.log(countryData[0]);
         
         if (countryData) {
           setCountry(countryData);
@@ -103,6 +105,7 @@ const CountryPage = () => {
             </p>
           </div>
         </motion.section>
+        <CountryCollegeCarousel countrySlug = {countrySlug}/>
 
         {/* Why Study Section */}
         <motion.section

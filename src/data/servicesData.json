@@ -1,0 +1,150 @@
+[
+  {
+    "id": 7,
+    "name": "Course Selection",
+    "slug": "course-selection",
+    "shortDescription": "Course selection services help students identify and apply for academic programs that align with their career goals, interests, and qualifications.",
+    "longDescription": "Course selection services provide specialized guidance to help students navigate the complex landscape of academic programs and make informed decisions about their educational path. These services typically begin with comprehensive assessments of the student's academic background, career aspirations, personal interests, and financial considerations. Advisors work closely with students to identify suitable disciplines, specializations, and specific courses that align with both their passions and career objectives. The process often involves analyzing market trends, employment opportunities, and future growth areas to ensure selected courses offer strong long-term prospects. Course selection professionals stay updated on curriculum changes, industry requirements, and accreditation standards across global institutions to provide current and relevant advice. They help students understand course structures, assessment methods, teaching approaches, and how these factors might affect learning experiences. Good course selection services also consider practical aspects such as prerequisite requirements, transfer credit possibilities, and alternative pathways to qualification. For international students, these services include evaluation of credential equivalency and advice on meeting entry requirements for foreign institutions. Digital platforms increasingly offer algorithmic course matching and virtual exploration of program options, though personalized consultation remains valuable for addressing individual circumstances. Effective course selection can significantly impact academic success, completion rates, and ultimately career satisfaction, making these services an important investment in educational planning.",
+    "whyStudyThis": [
+      "Aligns academic choices with career goals",
+      "Prevents costly program changes and extensions",
+      "Maximizes scholarship and financial aid opportunities",
+      "Ensures prerequisites and qualifications match requirements"
+    ],
+    "popularSpecializations": [
+      "Undergraduate Program Selection",
+      "Graduate School Planning",
+      "Technical and Vocational Course Selection",
+      "Online Learning Program Assessment",
+      "Professional Certification Planning"
+    ],
+    "careerPaths": [
+      "Educational Consultant",
+      "Academic Advisor",
+      "Career Counselor",
+      "University Admissions Specialist",
+      "International Education Coordinator"
+    ],
+    "requirements": {
+      "academic": "Understanding of various educational systems and degree structures; knowledge of credential evaluation",
+      "skills": "Research abilities, analytical thinking, personalized counseling, up-to-date knowledge of educational trends",
+      "others": "Cultural sensitivity for international advising; understanding of visa requirements for overseas study"
+    },
+    "averageDuration": "2-8 weeks for comprehensive course selection services",
+    "costRange": "$100 - $3,000 depending on service depth and provider reputation",
+    "topDestinations": ["United States", "United Kingdom", "Canada", "Australia", "Germany", "Singapore", "Netherlands"],
+    "trendingSubfields": ["AI-powered Course Matching", "Integrated Career Planning", "Microcredential Advising", "Industry-Aligned Curriculum Selection", "Remote Learning Optimization"],
+    "image": "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2021/04/Course-selection-process-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Visa Approval",
+    "slug": "visa-approval",
+    "shortDescription": "Visa approval services guide international students through complex immigration processes to legally study abroad with proper documentation and permits.",
+    "longDescription": "Visa approval services assist international students in navigating the often complex immigration requirements necessary to study abroad legally. These specialized services provide expert guidance through each stage of the visa application process, from initial eligibility assessment to final approval. Consultants stay current with frequently changing immigration policies, country-specific requirements, and application procedures across popular study destinations. The process typically begins with determining the appropriate visa category based on program length, study level, and host country regulations. Services include comprehensive document preparation, ensuring applications contain properly completed forms, financial evidence, admission letters, language proficiency results, and other required supporting materials. Visa specialists help prepare students for consular interviews by conducting mock sessions and advising on how to address potential concerns about immigration intent, financial capacity, or academic qualifications. They also assist with procedural elements like biometric appointments, visa fee payments, and application tracking. Beyond initial approvals, many services provide guidance on visa extension procedures, work permissions during study, post-graduation work opportunities, and dependent visas for family members. Quality visa services prioritize compliance and authenticity, ensuring all information provided is truthful and properly documented to avoid future immigration complications. They also offer contingency planning for visa rejections, including appeals processes or alternative country options when necessary. The value of professional visa services has increased as immigration policies have become more stringent globally, with expert guidance significantly improving approval rates for many applicants.",
+    "whyStudyThis": [
+      "Navigating complex immigration requirements",
+      "Reducing visa rejection risks",
+      "Understanding country-specific regulations",
+      "Managing timeline-critical application processes"
+    ],
+    "popularSpecializations": [
+      "Student Visa Processing",
+      "Dependent Visa Applications",
+      "Work Permission During Studies",
+      "Visa Extensions and Status Changes",
+      "Post-Study Work Visas"
+    ],
+    "careerPaths": [
+      "Immigration Consultant",
+      "International Student Advisor",
+      "Visa Compliance Officer",
+      "Embassy Liaison",
+      "Immigration Policy Analyst"
+    ],
+    "requirements": {
+      "academic": "Understanding of immigration law and international education systems; certification in immigration advising where applicable",
+      "skills": "Attention to detail, documentation management, intercultural communication, regulatory compliance",
+      "others": "Professional licensing for legal advice in many jurisdictions; ethical standards adherence"
+    },
+    "averageDuration": "1-4 months for complete visa application process",
+    "costRange": "$200 - $5,000 depending on destination country and service comprehensiveness",
+    "topDestinations": ["United States", "Canada", "Australia", "United Kingdom", "New Zealand", "Germany", "France"],
+    "trendingSubfields": ["Digital Visa Processing", "Post-Pandemic Immigration Changes", "Remote Study Visas", "Biometric Verification Systems", "Visa Compliance Technology"],
+    "image": "https://www.usnews.com/object/image/00000186-7cbb-d6db-a5d7-7dbb36a20000/iguide-student-visa-stock.jpg?update-time=1672331316025&size=responsive640"
+  },
+  {
+    "id": 9,
+    "name": "University Selection",
+    "slug": "university-selection",
+    "shortDescription": "University selection services help students identify institutions that match their academic profile, career goals, and personal preferences for optimal educational outcomes.",
+    "longDescription": "University selection services provide specialized guidance to help students identify and apply to higher education institutions that best match their academic capabilities, career aspirations, personal preferences, and financial circumstances. These services employ comprehensive methodologies that go beyond simplistic rankings to consider factors such as program strength in specific disciplines, research opportunities, teaching quality, campus culture, geographic location, and total cost of attendance. Consultants typically begin with in-depth assessments of the student's academic profile, standardized test scores, extracurricular achievements, and personal circumstances to develop realistic institutional targets. They help create balanced application portfolios with appropriate reach, match, and safety schools to maximize admission chances while maintaining quality options. University selection experts maintain current knowledge of admission trends, acceptance rates, and institutional priorities across hundreds of universities globally. They provide insights into how specific universities evaluate applicants and what factors might influence admission and scholarship decisions. For international students, these services include analysis of credential recognition, language requirements, and cultural fit considerations. Many services incorporate campus visit planning, virtual tours, and connections with current students or alumni to provide firsthand perspectives on university environments. The selection process often involves financial modeling to compare total costs across institutions, including tuition differentials, scholarship opportunities, living expenses, and long-term return on investment. Effective university selection significantly impacts not only admission outcomes but also degree completion rates, academic satisfaction, professional networking opportunities, and career placement success, making professional guidance a valuable investment in long-term educational outcomes.",
+    "whyStudyThis": [
+      "Finding institutional matches for academic profile and goals",
+      "Maximizing admission chances at appropriate institutions",
+      "Understanding institutional strengths beyond ranking numbers",
+      "Balancing quality, cost, and admission probability"
+    ],
+    "popularSpecializations": [
+      "Undergraduate Institution Selection",
+      "Graduate School Matching",
+      "Community College Transfer Planning",
+      "International University Selection",
+      "Scholarship-Focused Institution Selection"
+    ],
+    "careerPaths": [
+      "Educational Consultant",
+      "University Admissions Counselor",
+      "College Planning Specialist",
+      "International Education Advisor",
+      "School Guidance Counselor"
+    ],
+    "requirements": {
+      "academic": "Knowledge of higher education systems and admission requirements; understanding of academic programs and their quality markers",
+      "skills": "Research abilities, analytical thinking, personalized advising, current knowledge of institutional changes",
+      "others": "Network connections with institutions; understanding of financial aid systems; ethical counseling standards"
+    },
+    "averageDuration": "3-12 months for comprehensive university selection and application process",
+    "costRange": "$300 - $10,000 depending on service depth and provider reputation",
+    "topDestinations": ["United States", "United Kingdom", "Canada", "Australia", "Germany", "Japan", "Singapore"],
+    "trendingSubfields": ["Data-Driven University Matching", "Virtual Campus Exploration", "Social Fit Assessment", "Career Outcome Analysis", "Financial Return Modeling"],
+    "image": "https://leverageedu.com/blog/wp-content/uploads/2020/01/How-to-Choose-the-Right-University.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Loan Assistance",
+    "slug": "loan-assistance",
+    "shortDescription": "Loan assistance services help students navigate financing options for education, providing guidance on eligibility, application processes, and repayment strategies.",
+    "longDescription": "Educational loan assistance services provide specialized guidance to help students and families navigate the complex landscape of financing higher education. These services offer expertise in identifying, applying for, and managing various loan options to fund undergraduate, graduate, and professional education domestically and internationally. Loan advisors typically begin with comprehensive financial needs assessments, analyzing the gap between available resources (savings, scholarships, family contributions) and total educational costs. They help clients understand different loan types, including government-subsidized loans, private institutional loans, income-contingent options, and international student financing programs. Professional loan services prioritize long-term financial planning, helping students calculate manageable debt loads based on projected future earnings in their chosen fields. They provide guidance on interest rates, loan terms, deferment options, grace periods, and consolidation possibilities to optimize borrowing strategies. For international students, these services include navigation of cross-border lending requirements, currency considerations, co-signer requirements, and country-specific loan programs. Many services assist with the technical aspects of loan applications, including document preparation, verification processes, promissory notes, entrance counseling, and meeting critical deadlines. Beyond securing initial funding, comprehensive loan assistance includes education about responsible borrowing, budgeting during studies, and developing realistic repayment strategies. Advisors often provide guidance on loan forgiveness programs, hardship provisions, refinancing options, and tax implications of educational debt. As student loan burdens have increased globally, professional guidance has become increasingly valuable in helping students minimize unnecessary borrowing while securing adequate funding for educational goals, ultimately contributing to post-graduation financial stability.",
+    "whyStudyThis": [
+      "Navigating complex education financing options",
+      "Minimizing total debt burden",
+      "Understanding repayment obligations",
+      "Accessing specialized international student loans"
+    ],
+    "popularSpecializations": [
+      "Federal Student Loan Counseling",
+      "Private Education Loan Navigation",
+      "International Student Financing",
+      "Loan Consolidation and Refinancing",
+      "Income-Based Repayment Planning"
+    ],
+    "careerPaths": [
+      "Education Finance Consultant",
+      "Financial Aid Counselor",
+      "Student Loan Advisor",
+      "Higher Education Financial Planner",
+      "International Education Finance Specialist"
+    ],
+    "requirements": {
+      "academic": "Understanding of financial products, loan structures, and higher education costs; knowledge of financial regulations",
+      "skills": "Financial analysis, counseling abilities, attention to detail, ethical advising practices",
+      "others": "Financial certifications beneficial; compliance with lending regulations; ethical standards in financial advising"
+    },
+    "averageDuration": "2-8 weeks for loan application and approval process",
+    "costRange": "$0 - $2,500 depending on service comprehensiveness and provider type",
+    "topDestinations": ["United States", "United Kingdom", "Australia", "Canada", "New Zealand", "Germany", "France"],
+    "trendingSubfields": ["Income Share Agreements", "International Student Lending", "Digital Loan Platforms", "Financial Literacy Education", "Alternative Credit Assessment Models"],
+    "image": "https://www.bankrate.com/2022/06/27135805/What-are-student-loans.jpg"
+  }
+]

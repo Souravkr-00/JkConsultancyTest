@@ -15,7 +15,8 @@ import {
   ArrowLeft,
   Building,
   Book,
-  Briefcase
+  Briefcase,
+  NotebookPen,
 } from 'lucide-react';
 import collegesData from '../data/data.json'; // Adjust the path as necessary
 
@@ -468,10 +469,19 @@ export default function CollegeDetail() {
                     href={college.website} 
                     target="_blank" 
                     rel="noopener noreferrer" 
-                    className="w-full flex justify-center items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors"
+                    className="w-full flex justify-center items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors my-2"
                   >
                     <Globe className="mr-2 h-4 w-4" />
                     Visit Official Website
+                  </a>
+                  <a 
+                    href={"/bookconsult"} 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="w-full flex justify-center items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors my-2"
+                  >
+                    <NotebookPen  className="mr-2 h-4 w-4" />
+                    Book a Free Consultation
                   </a>
                 </div>
               )}

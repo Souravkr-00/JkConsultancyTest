@@ -25,7 +25,7 @@
     "visaProcess": "Submit admission letter, apply for visa at the Russian Embassy, attend interview (if required), and receive student visa.",
     "tuitionFeeRange": "$3,000 - $7,000 per year",
     "livingCost": "$100 - $300/month (excluding accommodation)",
-    "image": "/images/countries/russia.jpg"
+    "image": "https://www.traveltalktours.com/wp-content/smush-webp/2021/11/shutterstock_14077448421-scaled.jpg.webp"
   },
   {
     "id": 2,
@@ -53,7 +53,7 @@
     "visaProcess": "Visa on arrival for many countries; otherwise, apply at Armenian consulate with admission documents.",
     "tuitionFeeRange": "$2,500 - $5,000 per year",
     "livingCost": "$150 - $250/month",
-    "image": "/images/countries/armenia.jpg"
+    "image": "https://www.travelbusy.com/wp-content/uploads/2015/10/Yerevan-City-Armenia.jpg"
   },
   {
     "id": 3,
@@ -81,14 +81,14 @@
     "visaProcess": "Apply with admission letter, passport, and financial proof. Visa usually granted within 15 working days.",
     "tuitionFeeRange": "$4,000 - $7,000 per year",
     "livingCost": "$200 - $400/month",
-    "image": "/images/countries/georgia.jpg"
+    "image": "https://www.wildfrontierstravel.com/media/cache/page_image_large/upload/mirror/www-wildfrontierstravel-com/83b08925_Tbilisi-dreamstime_m_95312132.jpeg"
   },
   {
     "id": 4,
     "name": "Europe",
     "slug": "europe",
     "shortDescription": "Europe offers a wide range of high-quality academic programs with a multicultural learning environment.",
-    "longDescription": "Europe is home to some of the world’s most prestigious universities and diverse academic institutions. Whether it’s engineering in Germany, arts in France, or medicine in Poland, the continent provides unmatched academic standards, vast research opportunities, and professional exposure. With a strong focus on innovation and critical thinking, European education prepares students for global careers. Scholarships and public-funded education in countries like Germany, Norway, and France make higher education more accessible. Europe also offers student-friendly visa policies and easy post-study work opportunities, making it an attractive destination. Studying in Europe also means experiencing rich culture, languages, and diverse international communities.",
+    "longDescription": "Europe is home to some of the world's most prestigious universities and diverse academic institutions. Whether it's engineering in Germany, arts in France, or medicine in Poland, the continent provides unmatched academic standards, vast research opportunities, and professional exposure. With a strong focus on innovation and critical thinking, European education prepares students for global careers. Scholarships and public-funded education in countries like Germany, Norway, and France make higher education more accessible. Europe also offers student-friendly visa policies and easy post-study work opportunities, making it an attractive destination. Studying in Europe also means experiencing rich culture, languages, and diverse international communities.",
     "whyStudyHere": [
       "Globally ranked universities",
       "Innovative teaching and research",
@@ -109,14 +109,14 @@
     "visaProcess": "Each country has a separate student visa process; generally includes offer letter, financial proof, insurance, and biometrics.",
     "tuitionFeeRange": "$0 (public) to $15,000/year depending on country and course",
     "livingCost": "$500 - $1,200/month depending on location",
-    "image": "/images/countries/europe.jpg"
+    "image": "https://luggageandlipstick.com/wp-content/uploads/2020/05/0-prague_patti-morrow_luggageandlipstick.com_.jpg"
   },
   {
     "id": 5,
     "name": "Kazakhstan",
     "slug": "kazakhstan",
     "shortDescription": "Kazakhstan is emerging as a destination for affordable MBBS programs recognized worldwide.",
-    "longDescription": "Kazakhstan has rapidly gained recognition for its robust medical education system and growing number of international students. It offers MBBS programs that follow international standards and are approved by WHO, NMC, and other medical councils. Students benefit from English-taught programs, modern laboratories, experienced professors, and affordable fees. Kazakh universities focus on hands-on training and real-time hospital exposure. The admission process is direct and does not require entrance exams or donations. Kazakhstan’s rich culture, friendly environment, and low cost of living make it highly suitable for students from South Asia and Africa. The government also supports educational reforms to improve international collaboration and academic excellence.",
+    "longDescription": "Kazakhstan has rapidly gained recognition for its robust medical education system and growing number of international students. It offers MBBS programs that follow international standards and are approved by WHO, NMC, and other medical councils. Students benefit from English-taught programs, modern laboratories, experienced professors, and affordable fees. Kazakh universities focus on hands-on training and real-time hospital exposure. The admission process is direct and does not require entrance exams or donations. Kazakhstan's rich culture, friendly environment, and low cost of living make it highly suitable for students from South Asia and Africa. The government also supports educational reforms to improve international collaboration and academic excellence.",
     "whyStudyHere": [
       "Affordable tuition fees",
       "High-quality infrastructure",
@@ -137,6 +137,146 @@
     "visaProcess": "Submit required documents to Kazakh embassy or through university, receive invitation letter and apply for visa.",
     "tuitionFeeRange": "$3,000 - $6,000 per year",
     "livingCost": "$100 - $250/month",
-    "image": "/images/countries/kazakhstan.jpg"
+    "image": "https://blog.dookinternational.com/images/post-media/IjKqe1692686259.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Uzbekistan",
+    "slug": "uzbekistan",
+    "shortDescription": "Uzbekistan provides quality medical education at affordable rates with growing international recognition.",
+    "longDescription": "Uzbekistan has been transforming its educational landscape and emerging as a preferred destination for international students. The country's medical universities offer comprehensive programs that are recognized by WHO, NMC, and other international medical councils. With a strong emphasis on practical training, Uzbekistan's medical institutions provide students with early clinical exposure in affiliated hospitals. The education system combines traditional teaching methods with modern technological approaches. Most universities offer English-medium instruction, making it accessible for international students. The country's rich cultural heritage, hospitable environment, and affordable living costs add to its appeal. The Uzbek government has been actively working to enhance educational standards and international collaborations, making Uzbekistan an attractive option for students seeking quality education at reasonable costs.",
+    "whyStudyHere": [
+      "Affordable education with no hidden costs",
+      "WHO and NMC recognized medical degrees",
+      "Strong focus on practical training",
+      "Culturally rich and safe environment"
+    ],
+    "topUniversities": [
+      "Tashkent Medical Academy",
+      "Samarkand State Medical University",
+      "Bukhara State Medical Institute"
+    ],
+    "popularCourses": ["MBBS", "Dentistry", "Pharmacy", "Public Health"],
+    "requirements": {
+      "academic": "Minimum 50% in PCB (Physics, Chemistry, Biology)",
+      "language": "English proficiency recommended but not mandatory",
+      "others": "Valid passport, medical certificate, admission letter"
+    },
+    "visaProcess": "Apply with admission letter to Uzbek embassy, submit required documents, obtain invitation letter from university, and receive student visa.",
+    "tuitionFeeRange": "$3,500 - $5,500 per year",
+    "livingCost": "$150 - $300/month",
+    "image": "https://ychef.files.bbci.co.uk/1920x960/p0hc5x2w.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Kyrgyzstan",
+    "slug": "kyrgyzstan",
+    "shortDescription": "Kyrgyzstan offers budget-friendly medical education in a scenic environment with global recognition.",
+    "longDescription": "Kyrgyzstan has become an increasingly popular destination for international students seeking affordable yet quality medical education. Located in Central Asia, the country offers a unique blend of Asian and European cultures and educational methodologies. Kyrgyz medical universities are recognized by the World Health Organization (WHO), National Medical Commission (NMC), and other international bodies, allowing graduates to practice globally after qualifying the requisite licensing exams. The country boasts modern educational infrastructure, well-equipped laboratories, and experienced faculty members, many of whom have international qualifications. Most universities offer English as the medium of instruction, facilitating easy adaptation for international students. The straightforward admission process, absence of donation requirements, and simplified visa procedures make Kyrgyzstan an attractive option. Additionally, the breathtaking natural landscapes, low cost of living, and friendly local population contribute to an enriching study experience.",
+    "whyStudyHere": [
+      "Extremely affordable tuition and living costs",
+      "No entrance exams or donations",
+      "NMC and WHO recognized degrees",
+      "Beautiful natural surroundings"
+    ],
+    "topUniversities": [
+      "International School of Medicine",
+      "Kyrgyz State Medical Academy",
+      "Osh State University"
+    ],
+    "popularCourses": ["MBBS", "Dentistry", "Nursing", "Veterinary Science"],
+    "requirements": {
+      "academic": "Minimum 50% in PCB for medical courses",
+      "language": "No IELTS/TOEFL requirement for most universities",
+      "others": "Passport, admission letter, medical fitness certificate"
+    },
+    "visaProcess": "Apply with university invitation letter at Kyrgyz embassy, submit required documents, and obtain student visa within 2-3 weeks.",
+    "tuitionFeeRange": "$2,500 - $4,500 per year",
+    "livingCost": "$100 - $250/month",
+    "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/C257/production/_129115794_gettyimages-1331807831-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Nepal",
+    "slug": "nepal",
+    "shortDescription": "Nepal provides affordable education in a culturally rich environment with strong academic traditions.",
+    "longDescription": "Nepal, nestled in the Himalayas, offers a unique educational experience combining traditional values with modern academic approaches. The country has developed a robust higher education system with a particular strength in medical sciences, engineering, and management studies. Nepalese universities maintain high academic standards while keeping education costs relatively low compared to Western countries. The medium of instruction in most universities is English, making it accessible for international students. Nepal's medical colleges are recognized by international bodies including WHO and various national medical councils. The country's rich cultural heritage, breathtaking natural beauty, and spiritual tradition create an inspiring environment for learning. International students particularly appreciate the warm hospitality of the Nepalese people and the opportunity to experience a different cultural perspective. With relatively relaxed visa regulations for students from many countries and affordable living costs, Nepal presents an attractive alternative for higher education.",
+    "whyStudyHere": [
+      "Culturally rich learning environment",
+      "Affordable education and living costs",
+      "English-medium instruction",
+      "Strong focus on practical education"
+    ],
+    "topUniversities": [
+      "Tribhuvan University",
+      "Kathmandu University",
+      "B.P. Koirala Institute of Health Sciences"
+    ],
+    "popularCourses": ["MBBS", "Engineering", "Hotel Management", "Buddhist Studies"],
+    "requirements": {
+      "academic": "Minimum 50% in relevant subjects, entrance exams for some courses",
+      "language": "English proficiency proof recommended",
+      "others": "Valid passport, application form, photographs"
+    },
+    "visaProcess": "Apply with admission letter and other required documents at Nepalese embassy or on arrival for eligible countries.",
+    "tuitionFeeRange": "$3,000 - $8,000 per year depending on course",
+    "livingCost": "$200 - $400/month",
+    "image": "https://static.toiimg.com/photo/msid-69789635,width-96,height-65.cms"
+  },
+  {
+    "id": 9,
+    "name": "Vietnam",
+    "slug": "vietnam",
+    "shortDescription": "Vietnam offers quality education with an evolving international curriculum at competitive prices.",
+    "longDescription": "Vietnam has been rapidly developing its higher education sector, making significant strides in internationalizing its curriculum and improving academic standards. The country offers a diverse range of courses with particular strengths in technology, business, medicine, and engineering. Vietnamese universities increasingly collaborate with international institutions, adopting global best practices while maintaining affordable tuition fees. Many programs are now offered in English, catering to the growing number of international students. The educational infrastructure has seen considerable investment, with modern facilities and advanced laboratories becoming common in major universities. Vietnam's rich cultural heritage, dynamic economy, and strategic location in Southeast Asia provide students with unique perspectives and experiences. The country's safe environment, friendly population, delicious cuisine, and low cost of living further enhance its appeal. As Vietnam continues its economic growth, studying here also offers networking opportunities in one of Asia's fastest-developing markets.",
+    "whyStudyHere": [
+      "Emerging education hub in Southeast Asia",
+      "Affordable tuition and extremely low living costs",
+      "Dynamic economic environment with opportunities",
+      "Rich cultural experience"
+    ],
+    "topUniversities": [
+      "Vietnam National University, Hanoi",
+      "Ho Chi Minh City University of Technology",
+      "Hanoi Medical University"
+    ],
+    "popularCourses": ["Business Administration", "Computer Science", "Medicine", "Vietnamese Studies"],
+    "requirements": {
+      "academic": "High school completion with good grades",
+      "language": "English proficiency for English programs, Vietnamese proficiency for Vietnamese programs",
+      "others": "Passport, application form, health certificate"
+    },
+    "visaProcess": "Apply with university acceptance letter at Vietnamese embassy, submit required documents and obtain student visa.",
+    "tuitionFeeRange": "$1,500 - $5,000 per year",
+    "livingCost": "$150 - $350/month",
+    "image": "https://pre-webunwto.s3.eu-west-1.amazonaws.com/2024-11/un-tourism-to-host-first-global-conference-on-tourism-for-rural-development-in-vietnam.jpg?VersionId=JvgzBy1n0sx_EKgvBXjZGpYzNvlmjaU0"
+  },
+  {
+    "id": 10,
+    "name": "Bangladesh",
+    "slug": "bangladesh",
+    "shortDescription": "Bangladesh offers quality education at very competitive rates with increasing international standards.",
+    "longDescription": "Bangladesh has been steadily developing its higher education sector, establishing universities that meet international standards while maintaining affordability. The country is particularly renowned for its medical education, with numerous colleges recognized by global medical authorities including WHO and various national medical councils. Engineering, business studies, and textile technology are other areas where Bangladeshi institutions excel. Most programs for international students are offered in English, facilitating easy adaptation. Bangladesh's unique position as a developing economy provides students with firsthand experience of development challenges and innovative solutions. The country offers a rich cultural tapestry, warm hospitality, and a blend of traditional and modern values. For international students, Bangladesh provides an opportunity to experience South Asian culture while receiving quality education at a fraction of the cost compared to Western countries. The government has been actively promoting educational reforms and international collaborations, further enhancing the quality and global recognition of Bangladeshi degrees.",
+    "whyStudyHere": [
+      "Very affordable education and living costs",
+      "Strong medical and engineering programs",
+      "Cultural familiarity for South Asian students",
+      "Improving international recognition"
+    ],
+    "topUniversities": [
+      "University of Dhaka",
+      "Bangladesh University of Engineering and Technology",
+      "Bangabandhu Sheikh Mujib Medical University"
+    ],
+    "popularCourses": ["MBBS", "Engineering", "Business Administration", "Textile Engineering"],
+    "requirements": {
+      "academic": "Minimum 50% in relevant subjects, entrance exams for some courses",
+      "language": "English proficiency required for English-medium programs",
+      "others": "Valid passport, academic transcripts, medical certificate"
+    },
+    "visaProcess": "Apply with admission letter at Bangladesh embassy, submit required documents and obtain student visa.",
+    "tuitionFeeRange": "$2,000 - $6,000 per year",
+    "livingCost": "$150 - $300/month",
+    "image": "https://cdn.britannica.com/97/189797-050-1FC0041B/Night-view-Dhaka-Bangladesh.jpg"
   }
 ]

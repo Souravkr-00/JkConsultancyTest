@@ -205,7 +205,7 @@ export default function CollegesSection() {
               {filteredColleges
                 .filter(college => college.country === country)
                 .map((college, index) => (
-                  <a href={`colleges/${college.name}`}>
+                  <a href={`colleges/college/${college.name}`}>
                   <div
                     key={college.id}
                     data-id={college.id}

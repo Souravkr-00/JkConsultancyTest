@@ -57,6 +57,11 @@ const Navbar = () => {
       "Georgia",
       "Europe",
       "Kazakhstan",
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Nepal",
+      "Vietnam",
+      "Bangladesh",
     ],
     "Courses": [
       "Medical",

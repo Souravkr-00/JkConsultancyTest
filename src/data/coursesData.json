@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "name": "Medical",
+    "slug": "medical",
+    "shortDescription": "Medical programs provide comprehensive education in healthcare with strong clinical training and global career opportunities.",
+    "longDescription": "Medical education offers a pathway to one of the most respected and impactful professions globally. Programs typically span 5-6 years for undergraduate medicine (MBBS/MD) and involve intensive theoretical knowledge combined with hands-on clinical experience. The curriculum progresses from basic sciences (anatomy, physiology, biochemistry) to clinical rotations across various specialties. Medical degrees are heavily regulated and require accreditation from national bodies (like NMC, GMC, ECFMG) to ensure quality and international recognition. Upon graduation, students typically complete residency/internship before practicing independently. The field offers diverse specialization options, from cardiology to pediatrics to surgery, each requiring additional years of training. While demanding in terms of study commitment and academic rigor, medical education provides strong job security, competitive salaries, and the profound opportunity to directly impact human lives. Technological advancements like telemedicine, AI diagnostics, and precision medicine are rapidly transforming the field, requiring future doctors to be adaptable and tech-savvy.",
+    "whyStudyThis": [
+      "Stable and respected career path",
+      "Opportunity to save lives and improve health outcomes",
+      "Diverse specialization options",
+      "Strong earning potential"
+    ],
+    "popularSpecializations": [
+      "General Medicine",
+      "Surgery",
+      "Pediatrics",
+      "Psychiatry",
+      "Public Health"
+    ],
+    "careerPaths": [
+      "Clinical Practice",
+      "Medical Research",
+      "Healthcare Administration",
+      "Public Health Policy",
+      "Medical Education"
+    ],
+    "requirements": {
+      "academic": "Strong background in Biology, Chemistry, Physics; entrance exams like NEET, MCAT",
+      "skills": "Critical thinking, communication skills, empathy, stress management",
+      "others": "Medical fitness, clean background check for clinical practice"
+    },
+    "averageDuration": "5-6 years for undergraduate medicine; additional 3-7 years for specialization",
+    "costRange": "$10,000 - $70,000 per year depending on country and institution",
+    "topDestinations": ["United States", "United Kingdom", "Russia", "China", "Germany", "Ukraine", "Philippines"],
+    "trendingSubfields": ["Precision Medicine", "Telehealth", "Medical Informatics", "Geriatric Medicine", "Preventive Care"],
+    "image": "https://img.freepik.com/free-photo/medical-banner-with-doctor-wearing-goggles_23-2149611193.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Engineering",
+    "slug": "engineering",
+    "shortDescription": "Engineering programs provide technical expertise to solve complex problems through application of science and mathematics.",
+    "longDescription": "Engineering education equips students with the technical knowledge and problem-solving skills necessary to design, build, and optimize systems that meet human needs. Engineering programs typically combine theoretical foundations in mathematics and sciences with practical applications and design projects. The curriculum focuses on developing analytical thinking, technical expertise, and innovation capabilities. Most undergraduate engineering degrees take 4 years to complete, while master's programs are typically 1-2 years. Engineering disciplines range from traditional fields like civil, mechanical, and electrical to emerging areas such as biomedical, software, and environmental engineering. Accreditation from bodies like ABET, Engineers Australia, or IET ensures programs meet industry standards. Engineering education emphasizes hands-on learning through laboratories, workshops, and design projects, often culminating in a capstone project. Many programs incorporate industry internships and cooperative education opportunities to provide real-world experience. The profession is highly collaborative, requiring strong communication skills alongside technical expertise. Engineering graduates are valued for their analytical abilities and problem-solving approach, making them employable across numerous sectors beyond traditional engineering roles.",
+    "whyStudyThis": [
+      "High demand across global industries",
+      "Strong problem-solving and analytical skills development",
+      "Opportunity to innovate and design solutions",
+      "Competitive starting salaries"
+    ],
+    "popularSpecializations": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Engineering",
+      "Chemical Engineering"
+    ],
+    "careerPaths": [
+      "Design Engineer",
+      "Project Manager",
+      "Research and Development",
+      "Consulting",
+      "Technical Sales"
+    ],
+    "requirements": {
+      "academic": "Strong foundation in Mathematics and Physics; entrance exams like JEE, GRE",
+      "skills": "Analytical thinking, spatial reasoning, technical aptitude, teamwork",
+      "others": "Portfolio for design-focused programs, computer proficiency"
+    },
+    "averageDuration": "4 years for undergraduate; 1-2 years for master's programs",
+    "costRange": "$5,000 - $50,000 per year depending on country and institution",
+    "topDestinations": ["United States", "Germany", "Canada", "Australia", "Japan", "United Kingdom", "Singapore"],
+    "trendingSubfields": ["Sustainable Engineering", "Robotics", "AI Engineering", "Quantum Computing", "Bioengineering"],
+    "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Engineering_Mathematics.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Business",
+    "slug": "business",
+    "shortDescription": "Business programs develop managerial, financial, and entrepreneurial skills for various commercial and organizational contexts.",
+    "longDescription": "Business education prepares students for roles in the complex and evolving world of commerce, management, and entrepreneurship. Programs typically cover core areas including marketing, finance, accounting, operations, human resources, and strategy. The curriculum balances theoretical frameworks with case studies, simulations, and real-world projects to develop practical business acumen. Business degrees are available at all levels, from undergraduate to MBA and doctoral studies, with each level deepening expertise and specialization opportunities. Many programs include internships, consulting projects, and industry partnerships to enhance experiential learning and networking. Business education increasingly emphasizes global perspectives, digital transformation, sustainability, and ethical leadership to prepare graduates for contemporary challenges. The field attracts diverse students from various backgrounds, creating rich learning environments that mirror the multicultural business world. Business degrees offer flexibility in career paths, enabling graduates to work across industries and functions or start their own ventures. Top business schools often provide strong alumni networks and career services that significantly enhance job prospects and career advancement. As business environments become more complex and technology-driven, business education continues to evolve, incorporating data analytics, digital strategy, and innovation management.",
+    "whyStudyThis": [
+      "Versatile career options across industries",
+      "Entrepreneurial skill development",
+      "Strong networking opportunities",
+      "Understanding of global markets and economies"
+    ],
+    "popularSpecializations": [
+      "Marketing",
+      "Finance",
+      "Accounting",
+      "Management",
+      "International Business"
+    ],
+    "careerPaths": [
+      "Business Analyst",
+      "Marketing Manager",
+      "Financial Advisor",
+      "Entrepreneur",
+      "Management Consultant"
+    ],
+    "requirements": {
+      "academic": "Varied requirements; quantitative aptitude for finance-focused programs; entrance exams like GMAT, GRE for graduate studies",
+      "skills": "Communication, analytical thinking, leadership, teamwork, adaptability",
+      "others": "Work experience preferred for MBA programs, business awareness"
+    },
+    "averageDuration": "3-4 years for undergraduate; 1-2 years for MBA or master's programs",
+    "costRange": "$5,000 - $80,000 per year depending on program prestige and location",
+    "topDestinations": ["United States", "United Kingdom", "Switzerland", "Singapore", "France", "Canada", "Australia"],
+    "trendingSubfields": ["Digital Business", "Sustainable Business", "Entrepreneurship", "Business Analytics", "International Management"],
+    "image": "https://s3.envato.com/files/257203020/590.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Arts and Humanities",
+    "slug": "arts-humanities",
+    "shortDescription": "Arts and Humanities programs explore human culture, history, languages, and creative expression, developing critical thinking and communication skills.",
+    "longDescription": "Arts and Humanities education encompasses a diverse range of disciplines that explore human experiences, cultures, languages, and creative expressions. These programs cultivate critical thinking, interpretive skills, cultural awareness, and effective communication abilities. Students engage with literature, philosophy, history, languages, visual arts, performing arts, and related fields to understand how humans create meaning and navigate complex social worlds. The curriculum typically balances theoretical frameworks with critical analysis, creative projects, and research endeavors. Arts and Humanities education emphasizes deep reading, thoughtful writing, persuasive argumentation, and creative problem-solving approaches that are increasingly valued in diverse professional contexts. Many programs incorporate interdisciplinary perspectives, recognizing that complex contemporary issues require multiple analytical lenses. While sometimes overlooked in favor of more vocational disciplines, Arts and Humanities graduates develop versatile skills that adapt well to changing professional landscapes, including critical analysis, cultural sensitivity, ethical reasoning, and compelling communication. These programs foster creativity, intellectual curiosity, and empathetic understanding, preparing graduates not only for specific careers but for thoughtful engagement with complex social issues and lifelong learning. As technology reshapes society, humanities perspectives on ethics, culture, and human experience become increasingly essential for guiding technological development and addressing its societal impacts.",
+    "whyStudyThis": [
+      "Development of critical thinking and analytical skills",
+      "Strong written and verbal communication abilities",
+      "Cultural awareness and sensitivity",
+      "Creative problem-solving capabilities"
+    ],
+    "popularSpecializations": [
+      "Literature",
+      "History",
+      "Philosophy",
+      "Languages",
+      "Visual Arts"
+    ],
+    "careerPaths": [
+      "Education",
+      "Publishing",
+      "Media and Communications",
+      "Cultural Heritage",
+      "Public Service"
+    ],
+    "requirements": {
+      "academic": "Strong writing skills, reading comprehension; portfolio for creative arts programs",
+      "skills": "Critical thinking, communication, creativity, research abilities",
+      "others": "Language proficiency for linguistic programs, portfolio for visual/performing arts"
+    },
+    "averageDuration": "3-4 years for undergraduate; 1-2 years for master's programs",
+    "costRange": "$3,000 - $50,000 per year depending on institution and location",
+    "topDestinations": ["United Kingdom", "United States", "France", "Italy", "Germany", "Japan", "Australia"],
+    "trendingSubfields": ["Digital Humanities", "Environmental Humanities", "Cross-cultural Studies", "Medical Humanities", "Public Humanities"],
+    "image": "https://www.thoughtco.com/thmb/sHKl2aF6Vsi7CHnCv-UG0900KWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1197011970-41ffe71234c54508873c78c18190ea53.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Science",
+    "slug": "science",
+    "shortDescription": "Science programs develop research skills and theoretical knowledge to understand natural phenomena and develop innovative solutions to global challenges.",
+    "longDescription": "Science education provides the theoretical knowledge and research methodologies needed to understand natural phenomena and address complex global challenges. These programs emphasize analytical thinking, experimental design, data analysis, and evidence-based reasoning. The scientific disciplines span physical sciences (physics, chemistry), life sciences (biology, ecology), earth sciences (geology, meteorology), and mathematical sciences, each with distinct approaches yet sharing core scientific principles. Science curricula combine theoretical coursework with laboratory experimentation, field studies, and increasingly, computational modeling. Students develop technical proficiency with scientific instruments, statistical analysis, and research methodologies. Most undergraduate science degrees require 3-4 years, while master's programs typically take 1-2 years, and doctoral research extends 3-6 years. Science education increasingly emphasizes interdisciplinary approaches, recognizing that modern challenges like climate change, disease outbreaks, and resource management require integrated perspectives. Career paths extend beyond traditional research roles to include science communication, policy advising, data science, environmental management, and industry R&D. As technology accelerates scientific discovery, science education increasingly incorporates computational methods, data visualization, and emerging technologies alongside fundamental scientific principles. The field offers the intellectual satisfaction of discovery alongside opportunities to contribute to human knowledge and address pressing global issues.",
+    "whyStudyThis": [
+      "Development of analytical and research skills",
+      "Opportunity to contribute to knowledge and discovery",
+      "Strong foundation for specialized careers",
+      "Growing demand in research and technological sectors"
+    ],
+    "popularSpecializations": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Environmental Science",
+      "Mathematics"
+    ],
+    "careerPaths": [
+      "Research Scientist",
+      "Laboratory Technician",
+      "Data Analyst",
+      "Environmental Consultant",
+      "Science Educator"
+    ],
+    "requirements": {
+      "academic": "Strong background in relevant sciences and mathematics; entrance exams for certain programs",
+      "skills": "Analytical thinking, laboratory techniques, data analysis, attention to detail",
+      "others": "Research experience valuable for graduate programs"
+    },
+    "averageDuration": "3-4 years for undergraduate; 1-2 years for master's; 3-6 years for PhD",
+    "costRange": "$4,000 - $50,000 per year depending on institution and program",
+    "topDestinations": ["United States", "United Kingdom", "Germany", "Switzerland", "Japan", "Canada", "Australia"],
+    "trendingSubfields": ["Data Science", "Computational Biology", "Materials Science", "Climate Science", "Quantum Physics"],
+    "image": "https://www.timeshighereducation.com/student/sites/default/files/styles/default/public/science_subjects.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Masters",
+    "slug": "masters",
+    "shortDescription": "Master's programs provide advanced specialization and research opportunities across disciplines, enhancing career prospects and expertise.",
+    "longDescription": "Master's education represents advanced study beyond the undergraduate level, offering specialized knowledge, research experience, and professional development within a particular field. These programs typically take 1-2 years to complete and are available across disciplines, from arts and humanities to sciences, business, engineering, and professional fields. Master's degrees come in various forms, including Master of Arts (MA), Master of Science (MSc), Master of Business Administration (MBA), and numerous specialized designations aligned with specific industries. The curriculum typically balances advanced coursework with research projects, case studies, or capstone experiences that demonstrate mastery of the field. Many programs incorporate professional internships, industry partnerships, or teaching opportunities to enhance practical skills. Master's education often provides a bridge between theoretical academic knowledge and professional application, with some programs focusing more on research preparation and others on vocational advancement. These degrees often serve as differentiators in competitive job markets, signaling specialized expertise and commitment to professional development. They may also provide necessary credentials for specific career paths or serve as stepping stones to doctoral study. Master's programs increasingly offer flexible delivery formats, including part-time, online, and hybrid options to accommodate working professionals. The global market for master's education has expanded significantly, with many students pursuing international study opportunities to gain global perspectives and cross-cultural competencies valued by employers.",
+    "whyStudyThis": [
+      "Career advancement and specialization",
+      "Higher earning potential",
+      "Development of research and analytical expertise",
+      "Networking with industry professionals and academics"
+    ],
+    "popularSpecializations": [
+      "MBA (Business Administration)",
+      "MSc in Computer Science",
+      "MA in International Relations",
+      "MEng (Engineering)",
+      "MPH (Public Health)"
+    ],
+    "careerPaths": [
+      "Mid to Senior-Level Management",
+      "Specialized Professional Roles",
+      "Academic Research",
+      "Consulting",
+      "Entrepreneurship"
+    ],
+    "requirements": {
+      "academic": "Bachelor's degree in relevant field; competitive GPA; entrance exams like GRE, GMAT for many programs",
+      "skills": "Research aptitude, critical thinking, advanced writing abilities, subject expertise",
+      "others": "Professional experience required for executive programs; research experience for academic tracks"
+    },
+    "averageDuration": "1-2 years full-time; 2-3 years part-time",
+    "costRange": "$10,000 - $100,000 total program cost depending on field and institution",
+    "topDestinations": ["United States", "United Kingdom", "Australia", "Germany", "Canada", "Netherlands", "Singapore"],
+    "trendingSubfields": ["Data Science", "Artificial Intelligence", "Sustainable Development", "Public Health", "Digital Transformation"],
+    "image": "https://www.mastersportal.com/articles/2870/how-to-apply-for-a-masters-degree-in-2022-the-complete-guide.html"
+  }
+]
