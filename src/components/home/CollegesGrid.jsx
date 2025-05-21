@@ -30,7 +30,7 @@ const CollegeCard = ({ college, index }) => {
   const isInView = useInView(cardRef, { threshold: 0.1 });
   
   return (
-    <a href={`/colleges/${college.name}`}>
+    <a href={`/colleges/college/${college.name}`}>
     <div 
       ref={cardRef}
       className={`bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500 ${

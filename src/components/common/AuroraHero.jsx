@@ -44,6 +44,8 @@ export const AuroraHero = () => {
         <p className="my-6 max-w-2xl text-base leading-relaxed text-gray-300 md:text-lg">
           Get expert guidance for admissions, visa processing, and university selection in countries like Russia, Armenia, Georgia, Kazakhstan, and more.
         </p>
+
+        <a href="/bookconsult" target="_blank" rel="noopener noreferrer">
         <motion.button
           style={{
             border,
@@ -55,11 +57,12 @@ export const AuroraHero = () => {
           whileTap={{
             scale: 0.985,
           }}
-          className="group relative flex w-fit items-center gap-1.5 rounded-full bg-gray-950/10 px-6 py-2.5 text-base font-medium text-gray-50 transition-colors hover:bg-gray-950/50"
+          className="group relative flex w-fit items-center gap-1.5 rounded-full bg-gray-950/10 px-6 py-2.5 text-base font-medium text-gray-50 transition-colors hover:bg-gray-950/50 cursor-pointer"
         >
           Book a Free Counseling Session
           <FiArrowRight className="transition-transform group-hover:-rotate-45 group-active:-rotate-12" />
         </motion.button>
+        </a>
       </div>
 
       <div className="absolute inset-0 z-0">

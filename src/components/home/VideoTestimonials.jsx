@@ -5,67 +5,67 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const testimonials = [
   {
     id: 1,
-    name: 'Emily Rodriguez',
-    country: 'Spain',
-    program: 'Barcelona Study Abroad',
+    name: 'Aman',
+    country: 'Armenia',
+    program: 'Medical Student (5th Year)',
     youtubeLink: 'https://www.youtube.com/embed/IcWcXRCs5zs?si=RR5V2vOdqhbWy4IU',
     quote: 'My study abroad experience was life-changing. I learned so much about myself and the world!'
   },
   {
     id: 2,
-    name: 'Michael Chen',
-    country: 'Japan',
-    program: 'Tokyo Cultural Immersion',
+    name: 'Paras',
+    country: 'Armenia',
+    program: 'Medical Student (5th Year)',
     youtubeLink: 'https://youtube.com/embed/TJ0kSqoiLF4?si=vJPegMWi6qAVzlgn',
-    quote: 'Immersing myself in Japanese culture was an incredible journey of personal growth.'
+    quote: 'Immersing myself in Armenia culture was an incredible journey of personal growth.'
   },
   {
     id: 3,
-    name: 'Sofia Hernandez',
-    country: 'Italy',
-    program: 'Rome Art & History',
+    name: 'Mir Aftash',
+    country: 'Armenia',
+    program: 'Medical Student (5th Year)',
     youtubeLink: 'https://youtube.com/embed/jwnbx7Q3ABY?si=OEg2dAS0lzz5xR2B',
-    quote: 'Studying art history in Rome brought textbooks to life in ways I never imagined.'
+    quote: 'Studying Medical Science in Armenia brought textbooks to life in ways I never imagined.'
   },
   {
     id: 4,
-    name: 'Alex Thompson',
-    country: 'France',
-    program: 'Paris Language Immersion',
+    name: 'Disha',
+    country: 'Armenia', 
+    program: 'Medical Student (5th Year)',
     youtubeLink: 'https://youtube.com/embed/b8eoIG8zl_U?si=eV6l3WtIfyIpRKxw',
-    quote: 'Living and studying in Paris transformed my language skills and worldview.'
+    quote: 'Living and studying in Armenia transformed my language skills and Medical Science.'
   },
   {
     id: 5,
-    name: 'Alex Thompson',
-    country: 'France',
-    program: 'Paris Language Immersion',
+    name: 'Divy Mukheshkumar Patel',
+    country: 'Armenia',
+    program: 'Medical Student (6th Year)',
     youtubeLink: 'https://youtube.com/embed/1YlkIKv1Wew?si=od5_L_6PQbIgBnGN',
-    quote: 'Living and studying in Paris transformed my language skills and worldview.'
+    quote: 'Studying in Armenia was something I had never imagined, but JK Consultancy made the entire journey incredibly easy and stress-free. The cost of education is affordable, and the clinical exposure I’m receiving here is world-class. Thanks to JK Consultancy, I’m now one step closer to becoming a successful doctor without the heavy financial burden.'
   },
   {
     id: 6,
-    name: 'Alex Thompson',
-    country: 'France',
-    program: 'Paris Language Immersion',
+    name: 'Akshay Kumar',
+    country: 'Armenia',
+    program: 'Medical Student (6th Year)',
     youtubeLink: 'https://youtube.com/embed/gr_O37BpUuI?si=2xBhDQf1iW_irlUX',
-    quote: 'Living and studying in Paris transformed my language skills and worldview.'
+    quote: 'When I first thought of studying abroad, I was scared of the entire process. JK Consultancy not only guided me academically but also prepared me mentally for the move. They are professional, caring, and always available when I have questions. Studying MBBS in Armenia has turned out to be more enriching than I ever imagined.'
   },
   {
     id: 7,
-    name: 'Alex Thompson',
-    country: 'France',
-    program: 'Paris Language Immersion',
+    name: 'Tanya Chaudhary',
+    country: 'Armenia',
+    program: 'Medical Student (6th Year)',
     youtubeLink: 'https://youtube.com/embed/jBC2m_fcXZk?si=Bh8I92R1i8RJ7yfg',
-    quote: 'Living and studying in Paris transformed my language skills and worldview.'
+    quote: 'JK Consultancy was recommended by a friend and now I recommend it to everyone. They are honest, knowledgeable, and efficient. From my first counseling session to arriving in Armenia, every step was well-handled. My university provides solid practical experience and great student life. Thank you JK Consultancy for turning my dream into reality!'
   },
   {
     id: 8,
-    name: 'Alex Thompson',
-    country: 'France',
-    program: 'Paris Language Immersion',
+    name: 'Ashly Anna Renjan',
+    country: 'Armenia',
+    program: 'Medical Student (5th Year)',
     youtubeLink: 'https://youtube.com/embed/Xm8_yv7e67E?si=N1JVrQ35MhKucK1d',
-    quote: 'Living and studying in Paris transformed my language skills and worldview.'
+    quote: 'Living and studying in Armenia transformed my language skills in Medical Studies.'
   }
 ];
 
@@ -89,9 +89,12 @@ const VideoTestimonials = () => {
   return (
     <div className="bg-gray-50 py-16 px-4 overflow-hidden">
       <div className="max-w-5xl mx-auto relative">
-        <h2 className="text-3xl font-bold text-center mb-12 text-gray-800">
+        <h2 className="text-3xl font-bold text-center mb-5 text-gray-800">
           Student Experiences
         </h2>
+        <p className="text-gray-700 italic text-center mb-15">
+                  "Hear from the students who turned their dreams into reality with us. From personalized guidance to smooth admissions and reliable post-arrival support, our students share how JK Consultancy helped them kickstart their medical journey in Armenia. Their stories reflect the trust, commitment, and excellence we bring to every student’s abroad education experience."
+                </p>
         
         <div className="relative w-full">
           {/* Carousel Navigation */}

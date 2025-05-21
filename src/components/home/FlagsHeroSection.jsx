@@ -96,6 +96,8 @@ export default function FlagsHeroSection() {
         
         {/* Call-to-action buttons */}
         <div className="flex flex-col sm:flex-row justify-center items-center gap-4 mt-6">
+        <a href = "colleges">
+
           <button className="group relative overflow-hidden rounded-full bg-blue-600 px-6 py-3 text-white shadow-lg transition-all duration-300 hover:bg-blue-700 hover:shadow-blue-300/50">
             <span className="relative z-10 flex items-center gap-2 font-medium">
               Explore Destinations
@@ -103,6 +105,9 @@ export default function FlagsHeroSection() {
             </span>
             <span className="absolute inset-0 -z-10 translate-y-[100%] rounded-full bg-blue-500 transition-transform duration-300 group-hover:translate-y-0"></span>
           </button>
+        </a>
+          <a href = "/bookconsult">
+
           
           <button className="group relative overflow-hidden rounded-full bg-transparent px-6 py-3 text-blue-600 border-2 border-blue-600 transition-all duration-300 hover:text-white">
             <span className="relative z-10 flex items-center gap-2 font-medium">
@@ -110,6 +115,7 @@ export default function FlagsHeroSection() {
             </span>
             <span className="absolute inset-0 -z-10 scale-x-0 bg-blue-600 transition-transform duration-300 group-hover:scale-x-100 origin-left"></span>
           </button>
+          </a>
         </div>
       </div>
       
@@ -125,7 +131,7 @@ export default function FlagsHeroSection() {
         
         .slide-track {
           display: flex;
-          width: calc(180px * 27); /* Width of each slide × total number of duplicated slides */
+          width: calc(180px * 27); /* Width of each slide  total number of duplicated slides */
           animation: none; /* Animation applied conditionally via class */
         }
         

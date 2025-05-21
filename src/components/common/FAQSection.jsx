@@ -96,7 +96,7 @@ export default function FAQSection() {
           <h3 className="text-xl font-medium text-gray-900 mb-3">Still have questions?</h3>
           <p className="text-gray-600 mb-6">Our education consultants are here to help you navigate your study abroad journey.</p>
           <a 
-            href="#contact" 
+            href="/about-us/contact-us" 
             className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors duration-200"
           >
             Contact an Advisor

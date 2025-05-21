@@ -97,9 +97,11 @@ const CollegeBanner = () => {
               <button className="bg-sky-600 hover:bg-sky-500 text-white px-5 py-2.5 rounded-md transition-all duration-300 flex items-center text-sm md:text-base shadow-lg hover:shadow-sky-500/20">
                 View Universities <ChevronRight className="ml-1.5 h-4 w-4" />
               </button>
-              <button className="bg-transparent hover:bg-white/10 text-white border border-white/20 px-5 py-2.5 rounded-md transition-all duration-300 text-sm md:text-base">
+              <a href='/bookconsult'>
+              <button className="bg-transparent hover:bg-white/10 text-white border border-white/20 px-5 py-2.5 rounded-md transition-all duration-300 text-sm md:text-base cursor-pointer shadow-lg hover:shadow-sky-500/20 flex items-center">
                 Get Free Consultation
               </button>
+              </a>
             </div>
           </div>
 

@@ -132,6 +132,7 @@ export default function CountryCollegeCarousel({ countrySlug }) {
           onTouchEnd={handleTouchEnd}
         >
           {colleges.map((college) => (
+            <a href={`/colleges/college/${college.name}`} key={college.id}>
             <div 
               key={college.id} 
               className="px-2"
@@ -171,6 +172,7 @@ export default function CountryCollegeCarousel({ countrySlug }) {
                 </div>
               </div>
             </div>
+            </a>
           ))}
         </div>
         

@@ -115,18 +115,18 @@ const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-start">
                 <MapPin className="h-5 w-5 text-blue-700 mr-3 mt-0.5 flex-shrink-0" />
-                <p className="text-sm text-gray-700">123 Education Avenue, Academic District, Global City, 10001</p>
+                <p className="text-sm text-gray-700">South Extension II, G-25, New Delhi, Delhi 110049</p>
               </div>
               <div className="flex items-center">
                 <Phone className="h-5 w-5 text-blue-700 mr-3 flex-shrink-0" />
                 <a href="tel:+15551234567" className="text-sm text-gray-700 hover:text-blue-700 transition-colors">
-                  +1 (555) 123-4567
+                   +91 93190 56757
                 </a>
               </div>
               <div className="flex items-center">
                 <Mail className="h-5 w-5 text-blue-700 mr-3 flex-shrink-0" />
                 <a href="mailto:info@studyabroad.com" className="text-sm text-gray-700 hover:text-blue-700 transition-colors">
-                  info@studyabroad.com
+                  jkconsult.in@gmail.com
                 </a>
               </div>
               <div className="flex items-start">

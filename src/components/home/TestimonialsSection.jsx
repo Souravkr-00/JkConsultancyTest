@@ -5,8 +5,8 @@ import { ChevronLeft, ChevronRight, Star, Quote } from 'lucide-react';
 const testimonialData = [
   {
     id: 1,
-    name: "Emma Thompson",
-    country: "UK",
+    name: "Aman",
+    country: "Armenia",
     university: "Oxford University",
     image: "/api/placeholder/400/400",
     text: "Studying abroad in France completely changed my perspective on international education. The support from the program made my transition seamless.",
